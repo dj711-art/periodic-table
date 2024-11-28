@@ -3,7 +3,6 @@ import './PeriodicTable.css';
 import elementsData from './periodic-table.json';
 
 const PeriodicTable = () => {
-  console.log(elementsData);
   const [elements, setElements] = useState([]);
 
   useEffect(() => {
@@ -14,15 +13,15 @@ const PeriodicTable = () => {
     <div className="periodic-table">
       
       
-      <div className="table">
-        <td>
+     
+        
         {elements.map((element) => (
           <div
             key={element.number}
             className={`element ${element.category}`}
             style={{
-              gridRow: element.y,
-              gridColumn: element.x,
+              gridRow: element.y, // Position the element in the specified row
+              gridColumn: element.x, // Position the element in the specified column
             }}
           >
             <div className="atomic-number">{element.number}</div>
@@ -31,8 +30,8 @@ const PeriodicTable = () => {
             <div className="atomic-mass">{element.atomic_mass}</div>
           </div>
         ))}
-        </td>
-        </div>
+        
+        
     </div>
   );
 };
