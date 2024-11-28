@@ -1,0 +1,22 @@
+{
+    "elements": [
+      { "number": 1, "symbol": "H", "name": "Hydrogen", "category": "nonmetal" },
+      { "number": 2, "symbol": "He", "name": "Helium", "category": "noble-gas" },
+      { "number": 3, "symbol": "Li", "name": "Lithium", "category": "alkali-metal" },
+      { "number": 4, "symbol": "Be", "name": "Beryllium", "category": "alkaline-earth-metal" },
+      { "number": 5, "symbol": "B", "name": "Boron", "category": "metalloid" },
+      { "number": 6, "symbol": "C", "name": "Carbon", "category": "nonmetal" },
+      { "number": 7, "symbol": "N", "name": "Nitrogen", "category": "nonmetal" },
+      { "number": 8, "symbol": "O", "name": "Oxygen", "category": "nonmetal" },
+      { "number": 9, "symbol": "F", "name": "Fluorine", "category": "halogen" },
+      { "number": 10, "symbol": "Ne", "name": "Neon", "category": "noble-gas" },
+      { "number": 11, "symbol": "Na", "name": "Sodium", "category": "alkali-metal" },
+      { "number": 12, "symbol": "Mg", "name": "Magnesium", "category": "alkaline-earth-metal" },
+      { "number": 13, "symbol": "Al", "name": "Aluminum", "category": "post-transition-metal" },
+      { "number": 14, "symbol": "Si", "name": "Silicon", "category": "metalloid" },
+      { "number": 15, "symbol": "P", "name": "Phosphorus", "category": "nonmetal" },
+      { "number": 16, "symbol": "S", "name": "Sulfur", "category": "nonmetal" },
+      { "number": 17, "symbol": "Cl", "name": "Chlorine", "category": "halogen" },
+      { "number": 18, "symbol": "Ar", "name": "Argon", "category": "noble-gas" }
+    ]
+  }

@@ -1,0 +1,24 @@
+.periodic-table {
+    display: grid;
+    grid-template-columns: repeat(18, 1fr);
+    gap: 10px;
+  }
+  
+  .element {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .element .number {
+    font-size: 0.8em;
+  }
+  
+  .element .symbol {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .element .name {
+    font-size: 0.8em;
+  }
