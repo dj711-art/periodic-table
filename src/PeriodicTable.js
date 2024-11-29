@@ -28,6 +28,7 @@ const PeriodicTable = () => {
             <div className="symbol">{element.symbol}</div>
             <div className="name">{element.name}</div>
             <div className="atomic-mass">{element.atomic_mass}</div>
+            <div className="category">{element.category}</div>
           </div>
         ))}
         

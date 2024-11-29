@@ -26,3 +26,48 @@
 .element .atomic-mass {
   font-size: 0.8em;
 }
+
+* Category-specific styles */
+.nonmetal {
+  background-color: #ffcccb; /* Light red */
+}
+
+.metal {
+  background-color: #add8e6; /* Light blue */
+}
+
+.metalloid {
+  background-color: #90ee90; /* Light green */
+}
+
+.unknown {
+  background-color: #d3d3d3; /* Light gray */
+}
+
+.transition-metal {
+  background-color: #ffa07a; /* Light salmon */
+}
+
+.actinide {
+  background-color: #ffb6c1; /* Light pink */
+}
+
+.alkaline-earth-metal {
+  background-color: #f0e68c; /* Khaki */
+}
+
+.alkali-metal {
+  background-color: #e6e6fa; /* Lavender */
+}
+
+.post-transition-metal {
+  background-color: #f5deb3; /* Wheat */
+}
+
+.halogen {
+  background-color: #ffeb3b; /* Yellow */
+}
+
+.noble-gas {
+  background-color: #b0e0e6; /* Powder blue */
+}
