@@ -8,6 +8,7 @@
   border: 1px solid #ccc;
   padding: 10px;
   text-align: center;
+  cursor: move;
 }
 
 .element .atomic-number {
@@ -27,7 +28,6 @@
   font-size: 0.8em;
 }
 
-* Category-specific styles */
 .nonmetal {
   background-color: #ffcccb; /* Light red */
 }
@@ -70,4 +70,8 @@
 
 .noble-gas {
   background-color: #b0e0e6; /* Powder blue */
+}
+
+.lanthanide {
+  background-color: #dda0dd; /* Plum */
 }
