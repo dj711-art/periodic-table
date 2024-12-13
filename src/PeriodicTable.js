@@ -47,7 +47,7 @@ const PeriodicTable = () => {
                       gridColumn: element.x,
                       opacity: snapshot.isDragging ? 0.5 : 1,
                     }}
-                    title={element.electron_configuration} // Add tooltip with electron configuration
+                    title={`Electron Configuration: ${element.electron_configuration}\nType: ${element.category}`} // Add tooltip with electron configuration and element type
                   >
                     <div className="atomic-number">{element.number}</div>
                     <div className="symbol">{element.symbol}</div>
