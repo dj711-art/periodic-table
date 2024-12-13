@@ -1,7 +1,8 @@
 .periodic-table {
   display: grid;
-  grid-template-columns: repeat(18, 1fr); /* Adjust the number of columns as needed */
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Adjust the number of columns based on screen size */
   gap: 10px;
+  padding: 10px;
 }
 
 .element {
@@ -28,6 +29,7 @@
   font-size: 0.8em;
 }
 
+/* Category-specific styles */
 .nonmetal {
   background-color: #ffcccb; /* Light red */
 }
@@ -74,4 +76,33 @@
 
 .lanthanide {
   background-color: #dda0dd; /* Plum */
+}
+
+/* Media queries for fine-tuning the layout on different screen sizes */
+@media (max-width: 1200px) {
+  .periodic-table {
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .periodic-table {
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .periodic-table {
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+  }
+
+  .element .symbol {
+    font-size: 1.2em;
+  }
+
+  .element .name,
+  .element .atomic-mass,
+  .element .atomic-number {
+    font-size: 0.7em;
+  }
 }
