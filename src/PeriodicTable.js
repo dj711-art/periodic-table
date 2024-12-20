@@ -19,7 +19,14 @@ const PeriodicTable = () => {
             gridRow: element.y,
             gridColumn: element.x,
           }}
-          title={`Electron Configuration: ${element.electron_configuration}\nType: ${element.category}`} // Add tooltip with electron configuration and element type
+          title={`${element.name} 
+          \nElectron Configuration: ${element.electron_configuration}
+          \nType: ${element.category}
+          \nColor: ${element.color}
+          \nPhase: ${element.phase}
+          \nDensity: ${element.density}
+          \nMelting point: ${element.melting_point}
+          \nBoling point: ${element.boiling_point}`} // Add tooltip with electron configuration and element type
         >
           <div className="atomic-number">{element.number}</div>
           <div className="symbol">{element.symbol}</div>
