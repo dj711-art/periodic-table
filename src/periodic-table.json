@@ -1,5 +1,6 @@
 {
   "elements": [
+    
     {
       "number": 1,
       "symbol": "H",
@@ -8,7 +9,12 @@
       "atomic_mass": 1.008,
       "x": 1,
       "y": 1,
-      "electron_configuration": "1s1"
+      "electron_configuration": "1s1",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 0.08988,
+      "melting_point": "-259.16C",
+      "boiling_point": "-252.87C"
     },
     {
       "number": 2,
@@ -18,7 +24,12 @@
       "atomic_mass": 4.0026,
       "x": 18,
       "y": 1,
-      "electron_configuration": "1s2"
+      "electron_configuration": "1s2",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 0.1786,
+      "melting_point": "n/a",
+      "boiling_point": "-268.93C"
     },
     {
       "number": 3,
@@ -28,17 +39,27 @@
       "atomic_mass": 6.94,
       "x": 1,
       "y": 2,
-      "electron_configuration": "[He] 2s1"
+      "electron_configuration": "[He] 2s1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 0.534,
+      "melting_point": "180.54C",
+      "boiling_point": "1342C"
     },
     {
       "number": 4,
       "symbol": "Be",
       "name": "Beryllium",
       "category": "alkaline-earth-metal",
-      "atomic_mass": 9.012183,
+      "atomic_mass": 9.0122,
       "x": 2,
       "y": 2,
-      "electron_configuration": "[He] 2s2"
+      "electron_configuration": "[He] 2s2",
+      "color": "white-gray",
+      "phase": "solid",
+      "density": 1.85,
+      "melting_point": "1287C",
+      "boiling_point": "2469C"
     },
     {
       "number": 5,
@@ -48,7 +69,12 @@
       "atomic_mass": 10.81,
       "x": 13,
       "y": 2,
-      "electron_configuration": "[He] 2s2 2p1"
+      "electron_configuration": "[He] 2s2 2p1",
+      "color": "black-brown",
+      "phase": "solid",
+      "density": 2.34,
+      "melting_point": "2076C",
+      "boiling_point": "3927C"
     },
     {
       "number": 6,
@@ -58,7 +84,12 @@
       "atomic_mass": 12.011,
       "x": 14,
       "y": 2,
-      "electron_configuration": "[He] 2s2 2p2"
+      "electron_configuration": "[He] 2s2 2p2",
+      "color": "black (graphite), transparent (diamond)",
+      "phase": "solid",
+      "density": 2.267,
+      "melting_point": "3550C",
+      "boiling_point": "4027C"
     },
     {
       "number": 7,
@@ -68,7 +99,12 @@
       "atomic_mass": 14.007,
       "x": 15,
       "y": 2,
-      "electron_configuration": "[He] 2s2 2p3"
+      "electron_configuration": "[He] 2s2 2p3",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 1.2506,
+      "melting_point": "-210.1C",
+      "boiling_point": "-195.79C"
     },
     {
       "number": 8,
@@ -78,7 +114,12 @@
       "atomic_mass": 15.999,
       "x": 16,
       "y": 2,
-      "electron_configuration": "[He] 2s2 2p4"
+      "electron_configuration": "[He] 2s2 2p4",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 1.429,
+      "melting_point": "-218.79C",
+      "boiling_point": "-182.96C"
     },
     {
       "number": 9,
@@ -88,7 +129,12 @@
       "atomic_mass": 18.998,
       "x": 17,
       "y": 2,
-      "electron_configuration": "[He] 2s2 2p5"
+      "electron_configuration": "[He] 2s2 2p5",
+      "color": "pale yellow",
+      "phase": "gas",
+      "density": 1.696,
+      "melting_point": "-219.67C",
+      "boiling_point": "-188.11C"
     },
     {
       "number": 10,
@@ -98,7 +144,12 @@
       "atomic_mass": 20.180,
       "x": 18,
       "y": 2,
-      "electron_configuration": "[He] 2s2 2p6"
+      "electron_configuration": "[He] 2s2 2p6",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 0.9002,
+      "melting_point": "-248.59C",
+      "boiling_point": "-246.08C"
     },
     {
       "number": 11,
@@ -108,7 +159,12 @@
       "atomic_mass": 22.990,
       "x": 1,
       "y": 3,
-      "electron_configuration": "[Ne] 3s1"
+      "electron_configuration": "[Ne] 3s1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 0.971,
+      "melting_point": "97.72C",
+      "boiling_point": "883C"
     },
     {
       "number": 12,
@@ -118,7 +174,12 @@
       "atomic_mass": 24.305,
       "x": 2,
       "y": 3,
-      "electron_configuration": "[Ne] 3s2"
+      "electron_configuration": "[Ne] 3s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 1.738,
+      "melting_point": "650C",
+      "boiling_point": "1090C"
     },
     {
       "number": 13,
@@ -128,7 +189,12 @@
       "atomic_mass": 26.982,
       "x": 13,
       "y": 3,
-      "electron_configuration": "[Ne] 3s2 3p1"
+      "electron_configuration": "[Ne] 3s2 3p1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 2.70,
+      "melting_point": "660.32C",
+      "boiling_point": "2519C"
     },
     {
       "number": 14,
@@ -138,7 +204,12 @@
       "atomic_mass": 28.085,
       "x": 14,
       "y": 3,
-      "electron_configuration": "[Ne] 3s2 3p2"
+      "electron_configuration": "[Ne] 3s2 3p2",
+      "color": "gray",
+      "phase": "solid",
+      "density": 2.3296,
+      "melting_point": "1414C",
+      "boiling_point": "3265C"
     },
     {
       "number": 15,
@@ -148,7 +219,12 @@
       "atomic_mass": 30.974,
       "x": 15,
       "y": 3,
-      "electron_configuration": "[Ne] 3s2 3p3"
+      "electron_configuration": "[Ne] 3s2 3p3",
+      "color": "colorless (white), red, black",
+      "phase": "solid",
+      "density": 1.82,
+      "melting_point": "44.15C (white)",
+      "boiling_point": "280.5C (white)"
     },
     {
       "number": 16,
@@ -158,7 +234,12 @@
       "atomic_mass": 32.06,
       "x": 16,
       "y": 3,
-      "electron_configuration": "[Ne] 3s2 3p4"
+      "electron_configuration": "[Ne] 3s2 3p4",
+      "color": "yellow",
+      "phase": "solid",
+      "density": 2.067,
+      "melting_point": "115.21C",
+      "boiling_point": "444.6C"
     },
     {
       "number": 17,
@@ -168,7 +249,12 @@
       "atomic_mass": 35.45,
       "x": 17,
       "y": 3,
-      "electron_configuration": "[Ne] 3s2 3p5"
+      "electron_configuration": "[Ne] 3s2 3p5",
+      "color": "yellow-green",
+      "phase": "gas",
+      "density": 3.214,
+      "melting_point": "-101.5C",
+      "boiling_point": "-34.04C"
     },
     {
       "number": 18,
@@ -178,7 +264,12 @@
       "atomic_mass": 39.948,
       "x": 18,
       "y": 3,
-      "electron_configuration": "[Ne] 3s2 3p6"
+      "electron_configuration": "[Ne] 3s2 3p6",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 1.784,
+      "melting_point": "-189.34C",
+      "boiling_point": "-185.848C"
     },
     {
       "number": 19,
@@ -188,7 +279,12 @@
       "atomic_mass": 39.0983,
       "x": 1,
       "y": 4,
-      "electron_configuration": "[Ar] 4s1"
+      "electron_configuration": "[Ar] 4s1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 0.862,
+      "melting_point": "63.5C",
+      "boiling_point": "759C"
     },
     {
       "number": 20,
@@ -198,7 +294,12 @@
       "atomic_mass": 40.078,
       "x": 2,
       "y": 4,
-      "electron_configuration": "[Ar] 4s2"
+      "electron_configuration": "[Ar] 4s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 1.54,
+      "melting_point": "842C",
+      "boiling_point": "1484C"
     },
     {
       "number": 21,
@@ -208,7 +309,12 @@
       "atomic_mass": 44.955908,
       "x": 3,
       "y": 4,
-      "electron_configuration": "[Ar] 3d1 4s2"
+      "electron_configuration": "[Ar] 3d1 4s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 2.989,
+      "melting_point": "1541C",
+      "boiling_point": "2836C"
     },
     {
       "number": 22,
@@ -218,7 +324,12 @@
       "atomic_mass": 47.867,
       "x": 4,
       "y": 4,
-      "electron_configuration": "[Ar] 3d2 4s2"
+      "electron_configuration": "[Ar] 3d2 4s2",
+      "color": "silvery-gray-white",
+      "phase": "solid",
+      "density": 4.54,
+      "melting_point": "1668C",
+      "boiling_point": "3287C"
     },
     {
       "number": 23,
@@ -228,7 +339,12 @@
       "atomic_mass": 50.9415,
       "x": 5,
       "y": 4,
-      "electron_configuration": "[Ar] 3d3 4s2"
+      "electron_configuration": "[Ar] 3d3 4s2",
+      "color": "silvery-gray",
+      "phase": "solid",
+      "density": 6.11,
+      "melting_point": "1910C",
+      "boiling_point": "3407C"
     },
     {
       "number": 24,
@@ -238,7 +354,12 @@
       "atomic_mass": 51.9961,
       "x": 6,
       "y": 4,
-      "electron_configuration": "[Ar] 3d5 4s1"
+      "electron_configuration": "[Ar] 3d5 4s1",
+      "color": "silvery-metallic",
+      "phase": "solid",
+      "density": 7.15,
+      "melting_point": "1907C",
+      "boiling_point": "2671C"
     },
     {
       "number": 25,
@@ -248,7 +369,12 @@
       "atomic_mass": 54.938044,
       "x": 7,
       "y": 4,
-      "electron_configuration": "[Ar] 3d5 4s2"
+      "electron_configuration": "[Ar] 3d5 4s2",
+      "color": "silvery-metallic",
+      "phase": "solid",
+      "density": 7.44,
+      "melting_point": "1246C",
+      "boiling_point": "2061C"
     },
     {
       "number": 26,
@@ -258,7 +384,12 @@
       "atomic_mass": 55.845,
       "x": 8,
       "y": 4,
-      "electron_configuration": "[Ar] 3d6 4s2"
+      "electron_configuration": "[Ar] 3d6 4s2",
+      "color": "lustrous metallic-gray",
+      "phase": "solid",
+      "density": 7.874,
+      "melting_point": "1538C",
+      "boiling_point": "2862C"
     },
     {
       "number": 27,
@@ -268,7 +399,12 @@
       "atomic_mass": 58.933194,
       "x": 9,
       "y": 4,
-      "electron_configuration": "[Ar] 3d7 4s2"
+      "electron_configuration": "[Ar] 3d7 4s2",
+      "color": "metallic-gray",
+      "phase": "solid",
+      "density": 8.86,
+      "melting_point": "1495C",
+      "boiling_point": "2927C"
     },
     {
       "number": 28,
@@ -278,7 +414,12 @@
       "atomic_mass": 58.6934,
       "x": 10,
       "y": 4,
-      "electron_configuration": "[Ar] 3d8 4s2"
+      "electron_configuration": "[Ar] 3d8 4s2",
+      "color": "lustrous metallic-white",
+      "phase": "solid",
+      "density": 8.912,
+      "melting_point": "1455C",
+      "boiling_point": "2730C"
     },
     {
       "number": 29,
@@ -288,7 +429,12 @@
       "atomic_mass": 63.546,
       "x": 11,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s1"
+      "electron_configuration": "[Ar] 3d10 4s1",
+      "color": "reddish-brown",
+      "phase": "solid",
+      "density": 8.96,
+      "melting_point": "1084.62C",
+      "boiling_point": "2562C"
     },
     {
       "number": 30,
@@ -298,7 +444,12 @@
       "atomic_mass": 65.38,
       "x": 12,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s2"
+      "electron_configuration": "[Ar] 3d10 4s2",
+      "color": "bluish-silver",
+      "phase": "solid",
+      "density": 7.134,
+      "melting_point": "419.53C",
+      "boiling_point": "907C"
     },
     {
       "number": 31,
@@ -308,7 +459,12 @@
       "atomic_mass": 69.723,
       "x": 13,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s2 4p1"
+      "electron_configuration": "[Ar] 3d10 4s2 4p1",
+      "color": "silvery-blue",
+      "phase": "solid",
+      "density": 5.91,
+      "melting_point": "29.76C",
+      "boiling_point": "2204C"
     },
     {
       "number": 32,
@@ -318,7 +474,12 @@
       "atomic_mass": 72.63,
       "x": 14,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s2 4p2"
+      "electron_configuration": "[Ar] 3d10 4s2 4p2",
+      "color": "grayish-white",
+      "phase": "solid",
+      "density": 5.323,
+      "melting_point": "938.25C",
+      "boiling_point": "2833C"
     },
     {
       "number": 33,
@@ -328,7 +489,12 @@
       "atomic_mass": 74.9216,
       "x": 15,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s2 4p3"
+      "electron_configuration": "[Ar] 3d10 4s2 4p3",
+      "color": "metallic-gray",
+      "phase": "solid",
+      "density": 5.776,
+      "melting_point": "817C (sublimes)",
+      "boiling_point": "614C (sublimes)"
     },
     {
       "number": 34,
@@ -338,7 +504,12 @@
       "atomic_mass": 78.96,
       "x": 16,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s2 4p4"
+      "electron_configuration": "[Ar] 3d10 4s2 4p4",
+      "color": "gray",
+      "phase": "solid",
+      "density": 4.81,
+      "melting_point": "221C",
+      "boiling_point": "685C"
     },
     {
       "number": 35,
@@ -348,7 +519,12 @@
       "atomic_mass": 79.904,
       "x": 17,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s2 4p5"
+      "electron_configuration": "[Ar] 3d10 4s2 4p5",
+      "color": "reddish-brown",
+      "phase": "liquid",
+      "density": 3.1028,
+      "melting_point": "-7.2C",
+      "boiling_point": "58.8C"
     },
     {
       "number": 36,
@@ -358,7 +534,12 @@
       "atomic_mass": 83.798,
       "x": 18,
       "y": 4,
-      "electron_configuration": "[Ar] 3d10 4s2 4p6"
+      "electron_configuration": "[Ar] 3d10 4s2 4p6",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 3.749,
+      "melting_point": "-157.36C",
+      "boiling_point": "-153.22C"
     },
     {
       "number": 37,
@@ -368,7 +549,12 @@
       "atomic_mass": 85.4678,
       "x": 1,
       "y": 5,
-      "electron_configuration": "[Kr] 5s1"
+      "electron_configuration": "[Kr] 5s1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 1.532,
+      "melting_point": "39.31C",
+      "boiling_point": "688C"
     },
     {
       "number": 38,
@@ -378,7 +564,12 @@
       "atomic_mass": 87.62,
       "x": 2,
       "y": 5,
-      "electron_configuration": "[Kr] 5s2"
+      "electron_configuration": "[Kr] 5s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 2.64,
+      "melting_point": "777C",
+      "boiling_point": "1382C"
     },
     {
       "number": 39,
@@ -388,7 +579,12 @@
       "atomic_mass": 88.90584,
       "x": 3,
       "y": 5,
-      "electron_configuration": "[Kr] 5s2"
+      "electron_configuration": "[Kr] 5s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 4.472,
+      "melting_point": "1526C",
+      "boiling_point": "3338C"
     },
     {
       "number": 40,
@@ -398,7 +594,12 @@
       "atomic_mass": 91.224,
       "x": 4,
       "y": 5,
-      "electron_configuration": "[Kr] 4d1 5s2"
+      "electron_configuration": "[Kr] 4d1 5s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 6.52,
+      "melting_point": "1855C",
+      "boiling_point": "4409C"
     },
     {
       "number": 41,
@@ -408,7 +609,12 @@
       "atomic_mass": 92.90637,
       "x": 5,
       "y": 5,
-      "electron_configuration": "[Kr] 4d4 5s1"
+      "electron_configuration": "[Kr] 4d4 5s1",
+      "color": "gray metallic",
+      "phase": "solid",
+      "density": 8.57,
+      "melting_point": "2477C",
+      "boiling_point": "4744C"
     },
     {
       "number": 42,
@@ -418,7 +624,12 @@
       "atomic_mass": 95.95,
       "x": 6,
       "y": 5,
-      "electron_configuration": "[Kr] 4d5 5s1"
+      "electron_configuration": "[Kr] 4d5 5s1",
+      "color": "gray metallic",
+      "phase": "solid",
+      "density": 10.28,
+      "melting_point": "2623C",
+      "boiling_point": "4639C"
     },
     {
       "number": 43,
@@ -428,7 +639,12 @@
       "atomic_mass": 98,
       "x": 7,
       "y": 5,
-      "electron_configuration": "[Kr] 4d5 5s2"
+      "electron_configuration": "[Kr] 4d5 5s2",
+      "color": "gray metallic",
+      "phase": "solid",
+      "density": 11,
+      "melting_point": "2157C",
+      "boiling_point": "4265C"
     },
     {
       "number": 44,
@@ -438,7 +654,12 @@
       "atomic_mass": 101.07,
       "x": 8,
       "y": 5,
-      "electron_configuration": "[Kr] 4d7 5s1"
+      "electron_configuration": "[Kr] 4d7 5s1",
+      "color": "gray metallic",
+      "phase": "solid",
+      "density": 12.37,
+      "melting_point": "2334C",
+      "boiling_point": "4150C"
     },
     {
       "number": 45,
@@ -448,7 +669,12 @@
       "atomic_mass": 102.90550,
       "x": 9,
       "y": 5,
-      "electron_configuration": "[Kr] 4d8 5s1"
+      "electron_configuration": "[Kr] 4d8 5s1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 12.41,
+      "melting_point": "1964C",
+      "boiling_point": "3695C"
     },
     {
       "number": 46,
@@ -458,7 +684,12 @@
       "atomic_mass": 106.42,
       "x": 10,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10"
+      "electron_configuration": "[Kr] 4d10",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 12.02,
+      "melting_point": "1554.9C",
+      "boiling_point": "2963C"
     },
     {
       "number": 47,
@@ -468,7 +699,12 @@
       "atomic_mass": 107.8682,
       "x": 11,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s1"
+      "electron_configuration": "[Kr] 4d10 5s1",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 10.49,
+      "melting_point": "961.78C",
+      "boiling_point": "2162C"
     },
     {
       "number": 48,
@@ -478,7 +714,12 @@
       "atomic_mass": 112.414,
       "x": 12,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s2"
+      "electron_configuration": "[Kr] 4d10 5s2",
+      "color": "silvery blue",
+      "phase": "solid",
+      "density": 10.49,
+      "melting_point": "610F (321.07C)",
+      "boiling_point": "1413F (767C)"
     },
     {
       "number": 49,
@@ -488,7 +729,12 @@
       "atomic_mass": 114.818,
       "x": 13,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s2 5p1"
+      "electron_configuration": "[Kr] 4d10 5s2 5p1",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 7.31,
+      "melting_point": "314F 156.60C",
+      "boiling_point": "3762F 2072C"
     },
     {
       "number": 50,
@@ -498,7 +744,12 @@
       "atomic_mass": 118.710,
       "x": 14,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s2 5p2"
+      "electron_configuration": "[Kr] 4d10 5s2 5p2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 7.287,
+      "melting_point": "441F 231.93C",
+      "boiling_point": "4716F 2602C"
     },
     {
       "number": 51,
@@ -508,7 +759,12 @@
       "atomic_mass": 121.760,
       "x": 15,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s2 5p3"
+      "electron_configuration": "[Kr] 4d10 5s2 5p3",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 6.685,
+      "melting_point": "1168F 630.63C",
+      "boiling_point": "2889F 1587C"
     },
     {
       "number": 52,
@@ -518,7 +774,12 @@
       "atomic_mass": 127.60,
       "x": 16,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s2 5p4"
+      "electron_configuration": "[Kr] 4d10 5s2 5p4",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 6.24,
+      "melting_point": "841F 449.51C",
+      "boiling_point": "1810F 988C"
     },
     {
       "number": 53,
@@ -528,7 +789,12 @@
       "atomic_mass": 126.90447,
       "x": 17,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s2 5p5"
+      "electron_configuration": "[Kr] 4d10 5s2 5p5",
+      "color": "lustrous metallic-gray",
+      "phase": "solid",
+      "density": 4.933,
+      "melting_point": "237F 113.7C",
+      "boiling_point": "364F 184.3C"
     },
     {
       "number": 54,
@@ -538,7 +804,12 @@
       "atomic_mass": 131.293,
       "x": 18,
       "y": 5,
-      "electron_configuration": "[Kr] 4d10 5s2 5p6"
+      "electron_configuration": "[Kr] 4d10 5s2 5p6",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 5.894,
+      "melting_point": "169F -111.8C",
+      "boiling_point": "163F -108.1C"
     },
     {
       "number": 55,
@@ -548,7 +819,12 @@
       "atomic_mass": 132.90545196,
       "x": 1,
       "y": 6,
-      "electron_configuration": "[Xe] 6s1"
+      "electron_configuration": "[Xe] 6s1",
+      "color": "silvery-gold",
+      "phase": "solid",
+      "density": 1.93,
+      "melting_point": "83F 28.44C",
+      "boiling_point": "1240F 671C"
     },
     {
       "number": 56,
@@ -558,7 +834,12 @@
       "atomic_mass": 137.327,
       "x": 2,
       "y": 6,
-      "electron_configuration": "[Xe] 6s2"
+      "electron_configuration": "[Xe] 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 3.62,
+      "melting_point": "1334F 729C",
+      "boiling_point": "2979F 163797C"
     },
     {
       "number": 57,
@@ -568,7 +849,12 @@
       "atomic_mass": 138.90547,
       "x": 3,
       "y": 9,
-      "electron_configuration": "[Xe] 5d1 6s2"
+      "electron_configuration": "[Xe] 5d1 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 6.145,
+      "melting_point": "920C",
+      "boiling_point": "3464C"
     },
     {
       "number": 58,
@@ -578,7 +864,12 @@
       "atomic_mass": 140.116,
       "x": 4,
       "y": 9,
-      "electron_configuration": "[Xe] 4f1 5d1 6s2"
+      "electron_configuration": "[Xe] 4f1 5d1 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 6.770,
+      "melting_point": "1463F 795C",
+      "boiling_point": "6229F 3443C"
     },
     {
       "number": 59,
@@ -588,7 +879,12 @@
       "atomic_mass": 140.90766,
       "x": 5,
       "y": 9,
-      "electron_configuration": "[Xe] 4f3 6s2"
+      "electron_configuration": "[Xe] 4f3 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 6.773,
+      "melting_point": "1715F 935C",
+      "boiling_point": "6368F 3520C"
     },
     {
       "number": 60,
@@ -598,7 +894,12 @@
       "atomic_mass": 144.242,
       "x": 6,
       "y": 9,
-      "electron_configuration": "[Xe] 4f4 6s2"
+      "electron_configuration": "[Xe] 4f4 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 7.007,
+      "melting_point": "1875F 1024C",
+      "boiling_point": "5565F 3074C"
     },
     {
       "number": 61,
@@ -608,7 +909,12 @@
       "atomic_mass": 145,
       "x": 7,
       "y": 9,
-      "electron_configuration": "[Xe] 4f5 6s2"
+      "electron_configuration": "[Xe] 4f5 6s2",
+      "color": "metallic",
+      "phase": "solid",
+      "density": 7.26,
+      "melting_point": "1908F 1042C",
+      "boiling_point": "5432F 3000C"
     },
     {
       "number": 62,
@@ -618,7 +924,12 @@
       "atomic_mass": 150.36,
       "x": 8,
       "y": 9,
-      "electron_configuration": "[Xe] 4f6 6s2"
+      "electron_configuration": "[Xe] 4f6 6s2",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 7.52,
+      "melting_point": "1072C",
+      "boiling_point": "1794C"
     },
     {
       "number": 63,
@@ -628,7 +939,12 @@
       "atomic_mass": 151.964,
       "x": 9,
       "y": 9,
-      "electron_configuration": "[Xe] 4f7 6s2"
+      "electron_configuration": "[Xe] 4f7 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 5.243,
+      "melting_point": "822C",
+      "boiling_point": "1529C"
     },
     {
       "number": 64,
@@ -638,7 +954,12 @@
       "atomic_mass": 157.25,
       "x": 10,
       "y": 9,
-      "electron_configuration": "[Xe] 4f7 5d1 6s2"
+      "electron_configuration": "[Xe] 4f7 5d1 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 7.901,
+      "melting_point": "1312C",
+      "boiling_point": "3273C"
     },
     {
       "number": 65,
@@ -648,7 +969,12 @@
       "atomic_mass": 158.92535,
       "x": 11,
       "y": 9,
-      "electron_configuration": "[Xe] 4f9 6s2"
+      "electron_configuration": "[Xe] 4f9 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 8.229,
+      "melting_point": "1356C",
+      "boiling_point": "3230C"
     },
     {
       "number": 66,
@@ -658,7 +984,12 @@
       "atomic_mass": 162.500,
       "x": 12,
       "y": 9,
-      "electron_configuration": "[Xe] 4f10 6s2"
+      "electron_configuration": "[Xe] 4f10 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 8.55,
+      "melting_point": "1412C",
+      "boiling_point": "2562C"
     },
     {
       "number": 67,
@@ -668,7 +999,12 @@
       "atomic_mass": 164.93033,
       "x": 13,
       "y": 9,
-      "electron_configuration": "[Xe] 4f11 6s2"
+      "electron_configuration": "[Xe] 4f11 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 8.795,
+      "melting_point": "1474C",
+      "boiling_point": "2700C"
     },
     {
       "number": 68,
@@ -677,7 +1013,13 @@
       "category": "lanthanide",
       "atomic_mass": 167.259,
       "x": 14,
-      "y": 9
+      "y": 9,
+      "electron_configuration": "[Xe] 4f12 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 9.066,
+      "melting_point": "1529C",
+      "boiling_point": "2868C"
     },
     {
       "number": 69,
@@ -687,7 +1029,12 @@
       "atomic_mass": 168.93422,
       "x": 15,
       "y": 9,
-      "electron_configuration": "[Xe] 4f12 6s2"
+      "electron_configuration": "[Xe] 4f12 6s2",
+      "color": "silvery-gray",
+      "phase": "solid",
+      "density": 9.321,
+      "melting_point": "1545C",
+      "boiling_point": "1950C"
     },
     {
       "number": 70,
@@ -697,7 +1044,12 @@
       "atomic_mass": 173.045,
       "x": 16,
       "y": 9,
-      "electron_configuration": "[Xe] 4f13 6s2"
+      "electron_configuration": "[Xe] 4f13 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 6.965,
+      "melting_point": "824C",
+      "boiling_point": "1196C"
     },
     {
       "number": 71,
@@ -707,7 +1059,12 @@
       "atomic_mass": 174.9668,
       "x": 17,
       "y": 9,
-      "electron_configuration": "[Xe] 4f14 5d1 6s2"
+      "electron_configuration": "[Xe] 4f14 5d1 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 9.841,
+      "melting_point": "1652C",
+      "boiling_point": "3402C"
     },
     {
       "number": 72,
@@ -717,7 +1074,12 @@
       "atomic_mass": 178.49,
       "x": 4,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d2 6s2"
+      "electron_configuration": "[Xe] 4f14 5d2 6s2",
+      "color": "silvery-gray",
+      "phase": "solid",
+      "density": 13.31,
+      "melting_point": "2233C",
+      "boiling_point": "4603C"
     },
     {
       "number": 73,
@@ -727,7 +1089,12 @@
       "atomic_mass": 180.94788,
       "x": 5,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d3 6s2"
+      "electron_configuration": "[Xe] 4f14 5d3 6s2",
+      "color": "gray-blue",
+      "phase": "solid",
+      "density": 16.69,
+      "melting_point": "3017C",
+      "boiling_point": "5458C"
     },
     {
       "number": 74,
@@ -736,7 +1103,13 @@
       "category": "transition-metal",
       "atomic_mass": 183.84,
       "x": 6,
-      "y": 6
+      "y": 6,
+      "electron_configuration": "[Xe] 4f14 5d4 6s2",
+      "color": "grayish-white",
+      "phase": "solid",
+      "density": 19.25,
+      "melting_point": "3422C",
+      "boiling_point": "5555C"
     },
     {
       "number": 75,
@@ -746,7 +1119,12 @@
       "atomic_mass": 186.207,
       "x": 7,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d4 6s2"
+      "electron_configuration": "[Xe] 4f14 5d4 6s2",
+      "color": "silvery-gray",
+      "phase": "solid",
+      "density": 21.02,
+      "melting_point": "3186C",
+      "boiling_point": "5596C"
     },
     {
       "number": 76,
@@ -756,7 +1134,12 @@
       "atomic_mass": 190.23,
       "x": 8,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d5 6s2"
+      "electron_configuration": "[Xe] 4f14 5d5 6s2",
+      "color": "bluish-white",
+      "phase": "solid",
+      "density": 22.59,
+      "melting_point": "3033C",
+      "boiling_point": "5012C"
     },
     {
       "number": 77,
@@ -766,7 +1149,12 @@
       "atomic_mass": 192.217,
       "x": 9,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d6 6s2"
+      "electron_configuration": "[Xe] 4f14 5d6 6s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 22.56,
+      "melting_point": "2446C",
+      "boiling_point": "4428C"
     },
     {
       "number": 78,
@@ -776,7 +1164,12 @@
       "atomic_mass": 195.084,
       "x": 10,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d9 6s1"
+      "electron_configuration": "[Xe] 4f14 5d9 6s1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 21.45,
+      "melting_point": "1768.3C",
+      "boiling_point": "3825C"
     },
     {
       "number": 79,
@@ -786,7 +1179,12 @@
       "atomic_mass": 196.966569,
       "x": 11,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s1"
+      "electron_configuration": "[Xe] 4f14 5d10 6s1",
+      "color": "yellow",
+      "phase": "solid",
+      "density": 19.32,
+      "melting_point": "1064.18C",
+      "boiling_point": "2970C"
     },
     {
       "number": 80,
@@ -796,7 +1194,12 @@
       "atomic_mass": 200.592,
       "x": 12,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s2"
+      "electron_configuration": "[Xe] 4f14 5d10 6s2",
+      "color": "silvery",
+      "phase": "liquid",
+      "density": 13.534,
+      "melting_point": "-38.83C",
+      "boiling_point": "356.73C"
     },
     {
       "number": 81,
@@ -806,7 +1209,12 @@
       "atomic_mass": 204.38,
       "x": 13,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p1"
+      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p1",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 11.85,
+      "melting_point": "304C",
+      "boiling_point": "1473C"
     },
     {
       "number": 82,
@@ -816,7 +1224,12 @@
       "atomic_mass": 207.2,
       "x": 14,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p2"
+      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p2",
+      "color": "bluish-white",
+      "phase": "solid",
+      "density": 11.34,
+      "melting_point": "327.46C",
+      "boiling_point": "1749C"
     },
     {
       "number": 83,
@@ -826,7 +1239,12 @@
       "atomic_mass": 208.9804,
       "x": 15,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p3"
+      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p3",
+      "color": "silvery-white with a pink tinge",
+      "phase": "solid",
+      "density": 9.78,
+      "melting_point": "271.3C",
+      "boiling_point": "1564C"
     },
     {
       "number": 84,
@@ -836,7 +1254,12 @@
       "atomic_mass": 209,
       "x": 16,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p4"
+      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p4",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 9.196,
+      "melting_point": "254C",
+      "boiling_point": "962C"
     },
     {
       "number": 85,
@@ -846,7 +1269,12 @@
       "atomic_mass": 210,
       "x": 17,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p5"
+      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p5",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 7,
+      "melting_point": "302C",
+      "boiling_point": "337C"
     },
     {
       "number": 86,
@@ -856,7 +1284,12 @@
       "atomic_mass": 222,
       "x": 18,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p6"
+      "electron_configuration": "[Xe] 4f14 5d10 6s2 6p6",
+      "color": "colorless",
+      "phase": "gas",
+      "density": 9.73,
+      "melting_point": "-71C",
+      "boiling_point": "-61.7C"
     },
     {
       "number": 87,
@@ -866,7 +1299,12 @@
       "atomic_mass": 223,
       "x": 1,
       "y": 7,
-      "electron_configuration": "[Rn] 7s1"
+      "electron_configuration": "[Rn] 7s1",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 1.87,
+      "melting_point": "27C",
+      "boiling_point": "677C"
     },
     {
       "number": 88,
@@ -876,7 +1314,12 @@
       "atomic_mass": 226,
       "x": 2,
       "y": 7,
-      "electron_configuration": "[Rn] 7s2"
+      "electron_configuration": "[Rn] 7s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 5.5,
+      "melting_point": "700C",
+      "boiling_point": "1737C"
     },
     {
       "number": 89,
@@ -886,7 +1329,12 @@
       "atomic_mass": 227,
       "x": 3,
       "y": 10,
-      "electron_configuration": "[Rn] 6d1 7s2"
+      "electron_configuration": "[Rn] 6d1 7s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 10.07,
+      "melting_point": "1050C",
+      "boiling_point": "3200C"
     },
     {
       "number": 90,
@@ -896,7 +1344,12 @@
       "atomic_mass": 232.0377,
       "x": 4,
       "y": 10,
-      "electron_configuration": "[Rn] 6d2 7s2"
+      "electron_configuration": "[Rn] 6d2 7s2",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 11.72,
+      "melting_point": "1750C",
+      "boiling_point": "4788C"
     },
     {
       "number": 91,
@@ -906,7 +1359,12 @@
       "atomic_mass": 231.03588,
       "x": 5,
       "y": 10,
-      "electron_configuration": "[Rn] 5f2 6d1 7s2"
+      "electron_configuration": "[Rn] 5f2 6d1 7s2",
+      "color": "bright silvery metallic",
+      "phase": "solid",
+      "density": 15.37,
+      "melting_point": "1572C",
+      "boiling_point": "4000C"
     },
     {
       "number": 92,
@@ -916,7 +1374,12 @@
       "atomic_mass": 238.02891,
       "x": 6,
       "y": 10,
-      "electron_configuration": "[Rn] 5f3 6d1 7s2"
+      "electron_configuration": "[Rn] 5f3 6d1 7s2",
+      "color": "silvery-gray",
+      "phase": "solid",
+      "density": 18.95,
+      "melting_point": "1135C",
+      "boiling_point": "4131C"
     },
     {
       "number": 93,
@@ -926,7 +1389,12 @@
       "atomic_mass": 237,
       "x": 7,
       "y": 10,
-      "electron_configuration": "[Rn] 5f4 6d1 7s2"
+      "electron_configuration": "[Rn] 5f4 6d1 7s2",
+      "color": "silvery metallic",
+      "phase": "solid",
+      "density": 20.45,
+      "melting_point": "644C",
+      "boiling_point": "3902C"
     },
     {
       "number": 94,
@@ -936,7 +1404,12 @@
       "atomic_mass": 244,
       "x": 8,
       "y": 10,
-      "electron_configuration": "[Rn] 5f6 7s2"
+      "electron_configuration": "[Rn] 5f6 7s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 19.84,
+      "melting_point": "640C",
+      "boiling_point": "3235C"
     },
     {
       "number": 95,
@@ -946,7 +1419,12 @@
       "atomic_mass": 243,
       "x": 9,
       "y": 10,
-      "electron_configuration": "[Rn] 5f7 7s2"
+      "electron_configuration": "[Rn] 5f7 7s2",
+      "color": "silvery-white",
+      "phase": "solid",
+      "density": 13.69,
+      "melting_point": "1176C",
+      "boiling_point": "2011C"
     },
     {
       "number": 96,
@@ -956,7 +1434,12 @@
       "atomic_mass": 247,
       "x": 10,
       "y": 10,
-      "electron_configuration": "[Rn] 5f7 6d1 7s2"
+      "electron_configuration": "[Rn] 5f7 6d1 7s2",
+      "color": "silvery metallic",
+      "phase": "solid",
+      "density": 13.51,
+      "melting_point": "1340C",
+      "boiling_point": "3110C"
     },
     {
       "number": 97,
@@ -966,7 +1449,12 @@
       "atomic_mass": 247,
       "x": 11,
       "y": 10,
-      "electron_configuration": "[Rn] 5f9 7s2"
+      "electron_configuration": "[Rn] 5f9 7s2",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 14.78,
+      "melting_point": "986C",
+      "boiling_point": "2627C"
     },
     {
       "number": 98,
@@ -976,7 +1464,12 @@
       "atomic_mass": 251,
       "x": 12,
       "y": 10,
-      "electron_configuration": "[Rn] 5f10 7s2"
+      "electron_configuration": "[Rn] 5f10 7s2",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 15.1,
+      "melting_point": "900C",
+      "boiling_point": "1472C"
     },
     {
       "number": 99,
@@ -986,7 +1479,12 @@
       "atomic_mass": 252,
       "x": 13,
       "y": 10,
-      "electron_configuration": "[Rn] 5f11 7s2"
+      "electron_configuration": "[Rn] 5f11 7s2",
+      "color": "silvery",
+      "phase": "solid",
+      "density": 8.84,
+      "melting_point": "860C",
+      "boiling_point": "996C"
     },
     {
       "number": 100,
@@ -996,7 +1494,12 @@
       "atomic_mass": 257,
       "x": 14,
       "y": 10,
-      "electron_configuration": "[Rn] 5f12 7s2"
+      "electron_configuration": "[Rn] 5f12 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "1527C",
+      "boiling_point": "unknown"
     },
     {
       "number": 101,
@@ -1006,7 +1509,12 @@
       "atomic_mass": 258,
       "x": 15,
       "y": 10,
-      "electron_configuration": "[Rn] 5f13 7s2"
+      "electron_configuration": "[Rn] 5f13 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "827C",
+      "boiling_point": "unknown"
     },
     {
       "number": 102,
@@ -1016,7 +1524,12 @@
       "atomic_mass": 259,
       "x": 16,
       "y": 10,
-      "electron_configuration": "[Rn] 5f14 7s2"
+      "electron_configuration": "[Rn] 5f14 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "827C",
+      "boiling_point": "unknown"
     },
     {
       "number": 103,
@@ -1026,7 +1539,12 @@
       "atomic_mass": 262,
       "x": 17,
       "y": 10,
-      "electron_configuration": "[Rn] 5f14 7s2 7p1"
+      "electron_configuration": "[Rn] 5f14 7s2 7p1",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "1627C",
+      "boiling_point": "unknown"
     },
     {
       "number": 104,
@@ -1036,7 +1554,12 @@
       "atomic_mass": 267,
       "x": 4,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d2 7s2"
+      "electron_configuration": "[Rn] 5f14 6d2 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 23.2,
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 105,
@@ -1046,7 +1569,12 @@
       "atomic_mass": 270,
       "x": 5,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d3 7s2"
+      "electron_configuration": "[Rn] 5f14 6d3 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 29.3,
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 106,
@@ -1056,7 +1584,12 @@
       "atomic_mass": 271,
       "x": 6,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d4 7s2"
+      "electron_configuration": "[Rn] 5f14 6d4 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 35.0,
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 107,
@@ -1066,7 +1599,12 @@
       "atomic_mass": 270,
       "x": 7,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d5 7s2"
+      "electron_configuration": "[Rn] 5f14 6d5 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 37.1,
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 108,
@@ -1076,7 +1614,12 @@
       "atomic_mass": 277,
       "x": 8,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d6 7s2"
+      "electron_configuration": "[Rn] 5f14 6d6 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 40.7,
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 109,
@@ -1086,7 +1629,12 @@
       "atomic_mass": 278,
       "x": 9,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d7 7s2"
+      "electron_configuration": "[Rn] 5f14 6d7 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 110,
@@ -1096,7 +1644,12 @@
       "atomic_mass": 281,
       "x": 10,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d9 7s1"
+      "electron_configuration": "[Rn] 5f14 6d9 7s1",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 111,
@@ -1106,7 +1659,12 @@
       "atomic_mass": 282,
       "x": 11,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s1"
+      "electron_configuration": "[Rn] 5f14 6d10 7s1",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 112,
@@ -1116,7 +1674,12 @@
       "atomic_mass": 285,
       "x": 12,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s2"
+      "electron_configuration": "[Rn] 5f14 6d10 7s2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": 14.0,
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 113,
@@ -1126,7 +1689,12 @@
       "atomic_mass": 286,
       "x": 13,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p1"
+      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p1",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 114,
@@ -1136,7 +1704,12 @@
       "atomic_mass": 289,
       "x": 14,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p2"
+      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p2",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 115,
@@ -1146,7 +1719,12 @@
       "atomic_mass": 290,
       "x": 15,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p3"
+      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p3",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 116,
@@ -1156,7 +1734,12 @@
       "atomic_mass": 293,
       "x": 16,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p4"
+      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p4",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 117,
@@ -1166,7 +1749,12 @@
       "atomic_mass": 294,
       "x": 17,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p5"
+      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p5",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     },
     {
       "number": 118,
@@ -1176,7 +1764,12 @@
       "atomic_mass": 294,
       "x": 18,
       "y": 7,
-      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p6"
+      "electron_configuration": "[Rn] 5f14 6d10 7s2 7p6",
+      "color": "unknown",
+      "phase": "solid",
+      "density": "unknown",
+      "melting_point": "unknown",
+      "boiling_point": "unknown"
     }
   ]
 }
