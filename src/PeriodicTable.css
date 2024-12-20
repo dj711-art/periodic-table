@@ -1,8 +1,9 @@
 .periodic-table {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Adjust the number of columns based on screen size */
+  grid-template-columns: repeat(18, 1fr);
   gap: 10px;
   padding: 10px;
+  padding-bottom: 60px; /* Add padding to the bottom */
 }
 
 .element {
@@ -16,6 +17,7 @@
 
 .element:hover {
   transform: scale(1.05);
+  z-index: 10; /* Ensure the hovered element is on top */
 }
 
 .element .tooltip {
@@ -27,12 +29,33 @@
   border-radius: 5px;
   padding: 10px;
   position: absolute;
-  z-index: 1;
-  bottom: 125%; /* Position the tooltip above the element */
-  left: 50%;
-  margin-left: -100px; /* Center the tooltip */
+  z-index: 20; /* Ensure the tooltip is on top */
   opacity: 0;
   transition: opacity 0.3s;
+}
+
+.element .tooltip.bottom {
+  bottom: 125%; /* Position the tooltip above the element */
+}
+
+.element .tooltip.top {
+  top: 125%; /* Position the tooltip below the element */
+}
+
+.element .tooltip.left {
+  left: 0;
+  margin-left: 0;
+}
+
+.element .tooltip.right {
+  right: 0;
+  left: auto;
+  margin-left: 0;
+}
+
+.element .tooltip.center {
+  left: 50%;
+  margin-left: -100px; /* Center the tooltip */
 }
 
 .element:hover .tooltip {
@@ -43,12 +66,20 @@
 .element .tooltip::after {
   content: "";
   position: absolute;
-  top: 100%; /* At the bottom of the tooltip */
   left: 50%;
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
+}
+
+.element .tooltip.bottom::after {
+  top: 100%; /* At the bottom of the tooltip */
   border-color: #333 transparent transparent transparent;
+}
+
+.element .tooltip.top::after {
+  bottom: 100%; /* At the top of the tooltip */
+  border-color: transparent transparent #333 transparent;
 }
 
 .element .atomic-number {
@@ -61,7 +92,7 @@
 }
 
 .element .name {
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 .element .atomic-mass {
