@@ -23,7 +23,6 @@
 .element .tooltip {
   visibility: hidden;
   width: 200px;
-  background-color: #333;
   color: #fff;
   text-align: left;
   border-radius: 5px;
