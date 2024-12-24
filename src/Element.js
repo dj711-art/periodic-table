@@ -34,6 +34,14 @@ const Element = ({ element }) => {
     return () => window.removeEventListener('resize', handlePosition);
   }, []);
 
+  const formatElectronConfiguration = (config) => {
+    return config.replace(/([spdf])(\d+)/g, '$1<sup>$2</sup>');
+  };
+
+  const formatCompound = (compound) => {
+    return compound.replace(/(\d+)/g, '<sub>$1</sub>');
+  };
+
   return (
     <div
       id={element.number}
@@ -50,13 +58,25 @@ const Element = ({ element }) => {
       <div className="atomic-mass">{element.atomic_mass}</div>
       <div className={`tooltip ${tooltipPosition.vertical} ${tooltipPosition.horizontal} ${element.category}`}>
         <strong>{element.name}</strong><br />
-        Electron Configuration: {element.electron_configuration}<br />
+        Electron Configuration: <span dangerouslySetInnerHTML={{ __html: formatElectronConfiguration(element.electron_configuration) }} /><br />
         Type: {element.category}<br />
         Color: {element.color}<br />
         Phase: {element.phase}<br />
         Density: {element.density}<br />
         Melting Point: {element.melting_point}<br />
-        Boiling Point: {element.boiling_point}
+        Boiling Point: {element.boiling_point}<br />
+        {element.reactivity && element.reactivity.length > 0 && (
+          <>
+            Reactivity:
+            <ul>
+              {element.reactivity.map((reaction, index) => (
+                <li key={index}>
+                  Reacts with element {reaction.number} to form <span dangerouslySetInnerHTML={{ __html: formatCompound(reaction.compound) }} />
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
       </div>
     </div>
   );
