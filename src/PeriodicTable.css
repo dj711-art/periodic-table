@@ -24,6 +24,7 @@
   visibility: hidden;
   width: 200px;
   color: #fff;
+  color: black; /* Set tooltip text color to black */
   text-align: left;
   border-radius: 5px;
   padding: 10px;
