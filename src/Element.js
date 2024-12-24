@@ -54,7 +54,6 @@ const Element = ({ element }) => {
     >
       <div className="atomic-number">{element.number}</div>
       <div className="symbol">{element.symbol}</div>
-      <div className="name">{element.name}</div>
       <div className="atomic-mass">{element.atomic_mass}</div>
       <div className={`tooltip ${tooltipPosition.vertical} ${tooltipPosition.horizontal} ${element.category}`}>
         <strong>{element.name}</strong><br />
