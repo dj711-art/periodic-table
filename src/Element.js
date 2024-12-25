@@ -38,9 +38,6 @@ const Element = ({ element }) => {
     return config.replace(/([spdf])(\d+)/g, '$1<sup>$2</sup>');
   };
 
-  const formatCompound = (compound) => {
-    return compound.replace(/(\d+)/g, '<sub>$1</sub>');
-  };
 
   return (
     <div
