@@ -64,18 +64,7 @@ const Element = ({ element }) => {
         Density: {element.density}<br />
         Melting Point: {element.melting_point}<br />
         Boiling Point: {element.boiling_point}<br />
-        {element.reactivity && element.reactivity.length > 0 && (
-          <>
-            Reactivity:
-            <ul>
-              {element.reactivity.map((reaction, index) => (
-                <li key={index}>
-                  Reacts with element {reaction.number} to form <span dangerouslySetInnerHTML={{ __html: formatCompound(reaction.compound) }} />
-                </li>
-              ))}
-            </ul>
-          </>
-        )}
+        
       </div>
     </div>
   );

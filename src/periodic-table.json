@@ -12,9 +12,9 @@
       "electron_configuration": "1s1",
       "color": "colorless",
       "phase": "gas",
-      "density": 0.08988,
-      "melting_point": "-259.16C",
-      "boiling_point": "-252.87C"
+      "density": "0.000082 (g/cubic cm)",
+      "melting_point": "−259.16°C, −434.49°F, 13.99 K",
+      "boiling_point": "−252.879°C, −423.182°F, 20.271 K "
     },
     {
       "number": 2,
