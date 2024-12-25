@@ -1,6 +1,5 @@
 {
   "elements": [
-    
     {
       "number": 1,
       "symbol": "H",
@@ -13,8 +12,59 @@
       "color": "colorless",
       "phase": "gas",
       "density": "0.000082 (g/cubic cm)",
+      "isotopes": "2H Deuterium, 3H Tritium",
       "melting_point": "−259.16°C, −434.49°F, 13.99 K",
-      "boiling_point": "−252.879°C, −423.182°F, 20.271 K "
+      "boiling_point": "−252.879°C, −423.182°F, 20.271 K ",
+      "bond enthalpies": [
+        {
+          "number": "1",
+          "description": "H2"
+        },
+        {
+          "number": "3",
+          "description": "LiH"
+        },
+        {
+          "number": "6",
+          "compound": "CH4"
+        },
+        {
+          "number": "7",
+          "compound": "NH3"
+        },
+        {
+          "number": "8",
+          "compound": "H2O"
+        },
+        {
+          "number": "9",
+          "compound": "HF"
+        },
+        {
+          "number": "11",
+          "compound": "NaH"
+        },
+        {
+          "number": "14",
+          "compound": "SiH4"
+        },
+        {
+          "number": "15",
+          "compound": "PH3"
+        },
+        {
+          "number": "16",
+          "compound": "H2S"
+        },
+        {
+          "number": "17",
+          "compound": "HCl"
+        },
+        {
+          "number": "34",
+          "compound": "HSeH"
+        }
+      ]
     },
     {
       "number": 2,

@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './PeriodicTable.css';
 
-const Element = ({ element }) => {
+const Element = ({ element, onDoubleClick }) => {
   const [tooltipPosition, setTooltipPosition] = useState({ vertical: 'bottom', horizontal: 'center' });
   const elementRef = useRef(null);
 
@@ -38,6 +38,13 @@ const Element = ({ element }) => {
     return config.replace(/([spdf])(\d+)/g, '$1<sup>$2</sup>');
   };
 
+  const formatCompound = (compound) => {
+    return compound.replace(/(\d+)/g, '<sub>$1</sub>');
+  };
+
+  const formatIsotopes = (isotopes) => {
+    return isotopes.replace(/(\d+)/g, '<sup>$1</sup>');
+  };
 
   return (
     <div
@@ -48,6 +55,7 @@ const Element = ({ element }) => {
         gridColumn: element.x,
       }}
       ref={elementRef}
+      onDoubleClick={() => onDoubleClick(element.isotopes)}
     >
       <div className="atomic-number">{element.number}</div>
       <div className="symbol">{element.symbol}</div>
@@ -61,7 +69,7 @@ const Element = ({ element }) => {
         Density: {element.density}<br />
         Melting Point: {element.melting_point}<br />
         Boiling Point: {element.boiling_point}<br />
-        
+       
       </div>
     </div>
   );
