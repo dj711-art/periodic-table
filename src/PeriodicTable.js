@@ -8,11 +8,21 @@ const PeriodicTable = () => {
   const [selectedIsotopes, setSelectedIsotopes] = useState(null);
 
   useEffect(() => {
-    setElements(elementsData.elements);
+    // Initialize elements with clicked state
+    const elementsWithState = elementsData.elements.map(element => ({
+      ...element,
+      clicked: false
+    }));
+    setElements(elementsWithState);
   }, []);
 
-  const handleDoubleClick = (isotopes) => {
-    setSelectedIsotopes(isotopes);
+  const handleDoubleClick = (element) => {
+    if (element.isotopes && element.isotopes.trim() !== "") {
+      setSelectedIsotopes(element.isotopes);
+    } else {
+      setSelectedIsotopes(null);
+    }
+    
   };
 
   const formatIsotopes = (isotopes) => {
@@ -22,7 +32,7 @@ const PeriodicTable = () => {
   return (
     <div className="periodic-table">
       {elements.map((element) => (
-        <Element key={element.number} element={element} onDoubleClick={handleDoubleClick} />
+        <Element key={element.number} element={element} onDoubleClick={() => handleDoubleClick(element)}  />
       ))}
       {selectedIsotopes && (
         <div className="isotopes">

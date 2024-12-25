@@ -15,14 +15,14 @@
       "isotopes": "2H Deuterium, 3H Tritium",
       "melting_point": "−259.16°C, −434.49°F, 13.99 K",
       "boiling_point": "−252.879°C, −423.182°F, 20.271 K ",
-      "bond enthalpies": [
+      "reactivity": [
         {
           "number": "1",
-          "description": "H2"
+          "compound": "H2"
         },
         {
           "number": "3",
-          "description": "LiH"
+          "compound": "LiH"
         },
         {
           "number": "6",
