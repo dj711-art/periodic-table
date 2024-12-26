@@ -1,9 +1,11 @@
 .periodic-table {
   display: grid;
   grid-template-columns: repeat(18, 1fr);
+  grid-template-rows: repeat(10, 1fr); /* Define the height of each row */
   gap: 10px;
   padding: 10px;
   padding-bottom: 60px; /* Add padding to the bottom */
+  background-color: #f5f5f5; /* Light gray background */
 }
 
 .element {
@@ -13,6 +15,7 @@
   text-align: center;
   cursor: pointer;
   transition: transform 0.2s;
+  background-color: #f5f5f5; /* Light gray background */
 }
 
 .element:hover {
@@ -20,10 +23,17 @@
   z-index: 10; /* Ensure the hovered element is on top */
 }
 
+.element.highlighted {
+  background-color: yellow; /* Highlight color */
+}
+
+.element.reactive {
+  background-color: lightgreen; /* Reactive element highlight color */
+}
+
 .element .tooltip {
   visibility: hidden;
   width: 200px;
-  color: #fff;
   color: black; /* Set tooltip text color to black */
   text-align: left;
   border-radius: 5px;
@@ -74,12 +84,12 @@
 
 .element .tooltip.bottom::after {
   top: 100%; /* At the bottom of the tooltip */
-  border-color: #333 transparent transparent transparent;
+  border-color: transparent transparent transparent transparent;
 }
 
 .element .tooltip.top::after {
   bottom: 100%; /* At the top of the tooltip */
-  border-color: transparent transparent #333 transparent;
+  border-color: transparent transparent transparent transparent;
 }
 
 .element .atomic-number {
@@ -99,27 +109,36 @@
   font-size: 0.8em;
 }
 
-.isotopes {
-  grid-column: 3 / span 10; /* Position isotopes between Be and B */
-  grid-row: 1 / span 3; /* Position isotopes in the first three rows */
+.details {
+  grid-column: 3 / span 10; /* Position details between Be and B */
+  grid-row: 1 / span 3; /* Position details in the first three rows */
   text-align: center;
   margin-top: 20px;
 }
 
-.isotopes h3 {
+.isotopes, .discovery, .reactivity {
+  margin-bottom: 20px;
+}
+
+.reactivity {
+  max-height: 70px; /* Set a max height for the reactivity section */
+  overflow-y: auto; /* Make the reactivity section scrollable if it exceeds the max height */
+}
+
+.isotopes h3, .reactivity h3 {
   margin-bottom: 10px;
 }
 
-.isotopes ul {
+.isotopes ul, .reactivity ul {
   list-style-type: none;
   padding: 0;
 }
 
-.isotopes li {
-  display: inline-block;
+.isotopes li, .reactivity li {
+  display: block; /* Display each isotope and reactivity item in a new line */
   margin: 0 10px;
   padding: 5px 10px;
-  background-color: #f1f1f1;
+  background-color: #e0e0e0; /* Light gray background for list items */
   border-radius: 5px;
 }
 
@@ -170,33 +189,4 @@
 
 .lanthanide {
   background-color: #dda0dd; /* Plum */
-}
-
-/* Media queries for fine-tuning the layout on different screen sizes */
-@media (max-width: 1200px) {
-  .periodic-table {
-    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-  }
-}
-
-@media (max-width: 768px) {
-  .periodic-table {
-    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-  }
-}
-
-@media (max-width: 480px) {
-  .periodic-table {
-    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
-  }
-
-  .element .symbol {
-    font-size: 1.2em;
-  }
-
-  .element .name,
-  .element .atomic-mass,
-  .element .atomic-number {
-    font-size: 0.7em;
-  }
 }

@@ -38,13 +38,6 @@ const Element = ({ element, onDoubleClick }) => {
     return config.replace(/([spdf])(\d+)/g, '$1<sup>$2</sup>');
   };
 
-  const formatCompound = (compound) => {
-    return compound.replace(/(\d+)/g, '<sub>$1</sub>');
-  };
-
-  const formatIsotopes = (isotopes) => {
-    return isotopes.replace(/(\d+)/g, '<sup>$1</sup>');
-  };
 
   return (
     <div
@@ -55,7 +48,7 @@ const Element = ({ element, onDoubleClick }) => {
         gridColumn: element.x,
       }}
       ref={elementRef}
-      onDoubleClick={() => onDoubleClick(element.isotopes)}
+      onDoubleClick={() => onDoubleClick(element)}
     >
       <div className="atomic-number">{element.number}</div>
       <div className="symbol">{element.symbol}</div>
@@ -69,7 +62,7 @@ const Element = ({ element, onDoubleClick }) => {
         Density: {element.density}<br />
         Melting Point: {element.melting_point}<br />
         Boiling Point: {element.boiling_point}<br />
-       
+        
       </div>
     </div>
   );

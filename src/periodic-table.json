@@ -11,58 +11,60 @@
       "electron_configuration": "1s1",
       "color": "colorless",
       "phase": "gas",
+      "discovery date": "1766",
+      "discovered by": "Henry Cavendish",
       "density": "0.000082 (g/cubic cm)",
       "isotopes": "2H Deuterium, 3H Tritium",
       "melting_point": "−259.16°C, −434.49°F, 13.99 K",
       "boiling_point": "−252.879°C, −423.182°F, 20.271 K ",
       "reactivity": [
         {
-          "number": "1",
+          "number": 1,
           "compound": "H2"
         },
         {
-          "number": "3",
+          "number": 2,
           "compound": "LiH"
         },
         {
-          "number": "6",
+          "number": 6,
           "compound": "CH4"
         },
         {
-          "number": "7",
+          "number": 7,
           "compound": "NH3"
         },
         {
-          "number": "8",
+          "number": 8,
           "compound": "H2O"
         },
         {
-          "number": "9",
+          "number": 9,
           "compound": "HF"
         },
         {
-          "number": "11",
+          "number": "sodium",
           "compound": "NaH"
         },
         {
-          "number": "14",
+          "number": 14,
           "compound": "SiH4"
         },
         {
-          "number": "15",
+          "number": 15,
           "compound": "PH3"
         },
         {
-          "number": "16",
+          "number": 16,
           "compound": "H2S"
         },
         {
-          "number": "17",
+          "number": 17,
           "compound": "HCl"
         },
         {
-          "number": "34",
-          "compound": "HSeH"
+          "number": 34,
+          "compound": "H2Se"
         }
       ]
     },
@@ -77,9 +79,13 @@
       "electron_configuration": "1s2",
       "color": "colorless",
       "phase": "gas",
-      "density": 0.1786,
+      "discovery date": "1895",
+      "discovered by": "Sir William Ramsay in London, and independently by Per Teodor Cleve and Nils Abraham Langlet in Uppsala, Sweden ",
+      "isotopes": "3He, 4He",
+      "reactivity": [],
+      "density": "0.000164 (g/cubic cm)",
       "melting_point": "n/a",
-      "boiling_point": "-268.93C"
+      "boiling_point": "−268.928°C, −452.07°F, 4.222 K"
     },
     {
       "number": 3,
@@ -92,9 +98,13 @@
       "electron_configuration": "[He] 2s1",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 0.534,
-      "melting_point": "180.54C",
-      "boiling_point": "1342C"
+      "discovery date": "1817",
+      "discovered by": "Johan August Arfvedson",
+      "isotopes": "7Li, 6Li",
+      "reactivity": [{"number":13,"compound":"LiAlSi4O10"}],
+      "density": "0.534 (g/cubic cm)",
+      "melting_point": "180.50°C, 356.90°F, 453.65 K ",
+      "boiling_point": "1342°C, 2448°F, 1615 K "
     },
     {
       "number": 4,
