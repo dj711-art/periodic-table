@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './PeriodicTable.css';
 
-const Element = ({ element }) => {
+const Element = ({ element, onDoubleClick }) => {
   const [tooltipPosition, setTooltipPosition] = useState({ vertical: 'bottom', horizontal: 'center' });
   const elementRef = useRef(null);
 
@@ -48,6 +48,7 @@ const Element = ({ element }) => {
         gridColumn: element.x,
       }}
       ref={elementRef}
+      onDoubleClick={() => onDoubleClick(element)}
     >
       <div className="atomic-number">{element.number}</div>
       <div className="symbol">{element.symbol}</div>
