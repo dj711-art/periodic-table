@@ -100,7 +100,7 @@
       "phase": "solid",
       "discovery date": "1817",
       "discovered by": "Johan August Arfvedson",
-      "isotopes": "7Li, 6Li",
+      "isotopes": "7Li 6Li",
       "reactivity": [{"number":13,"compound":"LiAlSi4O10"}],
       "density": "0.534 (g/cubic cm)",
       "melting_point": "180.50°C, 356.90°F, 453.65 K ",
@@ -115,10 +115,13 @@
       "x": 2,
       "y": 2,
       "electron_configuration": "[He] 2s2",
+      "discovered by": "Louis Nicolas Vauquelin",
+      "discovery date": "1798",
       "color": "white-gray",
       "phase": "solid",
       "density": "1.85 (g/cubic cm)",
       "isotopes": "9Be",
+      "reactivity": [{"number":17,"compound":"BeCl2"},{"number":8,"compound":"Be(OH)2"} ],
       "melting_point": "1287°C, 2349°F, 1560 K",
       "boiling_point": "2468°C, 4474°F, 2741 K"
     },
@@ -134,8 +137,11 @@
       "color": "black-brown",
       "phase": "solid",
       "density": 2.34,
-      "melting_point": "2076C",
-      "boiling_point": "3927C"
+      "melting_point": "2077°C, 3771°F, 2350 K",
+      "boiling_point": "4000°C, 7232°F, 4273 K",
+      "discovered by": "Louis-Josef Gay-Lussac and Louis-Jacques Thénard in Paris, France, and Humphry Davy in London, UK",
+      "discovery date": "1808",
+      "isotopes": "11B, 10B"
     },
     {
       "number": 6,
