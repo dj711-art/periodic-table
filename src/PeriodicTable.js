@@ -68,16 +68,18 @@ const PeriodicTable = () => {
             <p>Discovery Date: {selectedElement["discovery date"]}</p>
             <p>Discovered By: {selectedElement["discovered by"]}</p>
           </div>
-          <div className="reactivity">
-            <h3>Reactivity</h3>
-            <ul>
-              {selectedElement.reactivity.map((reaction, index) => (
-                <li key={index}>
-                  Reacts with {getElementName(reaction.number)} to form <span dangerouslySetInnerHTML={{ __html: formatCompound(reaction.compound) }} />
-                </li>
-              ))}
-            </ul>
-          </div>
+          {selectedElement.reactivity && (
+            <div className="reactivity">
+              <h3>Reactivity</h3>
+              <ul>
+                {selectedElement.reactivity.map((reaction, index) => (
+                  <li key={index}>
+                    Reacts with {getElementName(reaction.number)} to form <span dangerouslySetInnerHTML={{ __html: formatCompound(reaction.compound) }} />
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       )}
     </div>

@@ -117,9 +117,10 @@
       "electron_configuration": "[He] 2s2",
       "color": "white-gray",
       "phase": "solid",
-      "density": 1.85,
-      "melting_point": "1287C",
-      "boiling_point": "2469C"
+      "density": "1.85 (g/cubic cm)",
+      "isotopes": "9Be",
+      "melting_point": "1287°C, 2349°F, 1560 K",
+      "boiling_point": "2468°C, 4474°F, 2741 K"
     },
     {
       "number": 5,
