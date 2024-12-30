@@ -155,8 +155,11 @@
       "color": "black (graphite), transparent (diamond)",
       "phase": "solid",
       "density": 2.267,
-      "melting_point": "3550C",
-      "boiling_point": "4027C"
+      "melting_point": "Sublimes at 3825°C, 6917°F, 4098 K",
+      "boiling_point": "Sublimes at 3825°C, 6917°F, 4098 K",
+      "discovered by":"",
+      "discovery date":"Prehistoric",
+      "isotopes": "12C, 13C, 14C"
     },
     {
       "number": 7,
@@ -170,8 +173,11 @@
       "color": "colorless",
       "phase": "gas",
       "density": 1.2506,
-      "melting_point": "-210.1C",
-      "boiling_point": "-195.79C"
+      "melting_point": "−210.0°C, −346.0°F, 63.2 K",
+      "boiling_point": "−195.795°C, −320.431°F, 77.355 K",
+      "discovered by":"Daniel Rutherford",
+      "discovery date":1772,
+      "isotopes": "14N"
     },
     {
       "number": 8,
@@ -184,9 +190,12 @@
       "electron_configuration": "[He] 2s2 2p4",
       "color": "colorless",
       "phase": "gas",
-      "density": 1.429,
-      "melting_point": "-218.79C",
-      "boiling_point": "-182.96C"
+      "density": "0.001308  (g/cubic cm)",
+      "melting_point": "−218.79°C, −361.82°F, 54.36 K ",
+      "boiling_point": "−182.962°C, −297.332°F, 90.188 K",
+      "discovered by":"Joseph Priestley in Wiltshire, England and independently by Carl Wilhelm Scheele in Uppsala, Sweden",
+      "discovery date":"1774",
+      "isotopes":"16O"
     },
     {
       "number": 9,
@@ -199,9 +208,12 @@
       "electron_configuration": "[He] 2s2 2p5",
       "color": "pale yellow",
       "phase": "gas",
-      "density": 1.696,
-      "melting_point": "-219.67C",
-      "boiling_point": "-188.11C"
+      "density": "0.001553 (g/cubic cm)",
+      "melting_point": "−219.67°C, −363.41°F, 53.48 K",
+      "boiling_point": "−188.11°C, −306.6°F, 85.04 K",
+      "discovered by":"Henri Moissan",
+      "discovery date":"1886",
+      "isotopes":"19F"
     },
     {
       "number": 10,
@@ -214,9 +226,12 @@
       "electron_configuration": "[He] 2s2 2p6",
       "color": "colorless",
       "phase": "gas",
-      "density": 0.9002,
-      "melting_point": "-248.59C",
-      "boiling_point": "-246.08C"
+      "density": "0.000825 (g/cubic cm)",
+      "melting_point": "−248.59°C, −415.46°F, 24.56 K ",
+      "boiling_point": "−246.046°C, −410.883°F, 27.104 K",
+      "discovered by":"Sir William Ramsay and Morris Travers ",
+      "discovery date":"1898",
+      "isotopes":"20Ne"
     },
     {
       "number": 11,
@@ -229,9 +244,12 @@
       "electron_configuration": "[Ne] 3s1",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 0.971,
-      "melting_point": "97.72C",
-      "boiling_point": "883C"
+      "density": "0.971 (g/cubic cm)",
+      "melting_point": "97.794°C, 208.029°F, 370.944 K",
+      "boiling_point": "882.940°C, 1621.292°F, 1156.090 K ",
+      "discovered by":"Humphry Davy",
+      "discovery date":"1807",
+      "isotopes":"23Na"
     },
     {
       "number": 12,
@@ -244,9 +262,12 @@
       "electron_configuration": "[Ne] 3s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 1.738,
-      "melting_point": "650C",
-      "boiling_point": "1090C"
+      "density": "1.738 (g/cubic cm)",
+      "melting_point": "650°C, 1202°F, 923 K",
+      "boiling_point": "1090°C, 1994°F, 1363 K",
+      "discovered by":"Joseph Black ",
+      "discovery date":"1755",
+      "isotopes":"24Mg"
     },
     {
       "number": 13,
@@ -259,9 +280,12 @@
       "electron_configuration": "[Ne] 3s2 3p1",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 2.70,
-      "melting_point": "660.32C",
-      "boiling_point": "2519C"
+      "density": "2.70 (g/cubic cm)",
+      "melting_point": "660.323°C, 1220.581°F, 933.473 K",
+      "boiling_point": "2519°C, 4566°F, 2792 K ",
+      "discovered by":"Hans Oersted",
+      "discovery date":"1825",
+      "isotopes":"27Al"
     },
     {
       "number": 14,
@@ -274,9 +298,12 @@
       "electron_configuration": "[Ne] 3s2 3p2",
       "color": "gray",
       "phase": "solid",
-      "density": 2.3296,
-      "melting_point": "1414C",
-      "boiling_point": "3265C"
+      "density": "2.3296 (g/cubic cm)",
+      "melting_point": "1414°C, 2577°F, 1687 K",
+      "boiling_point": "3265°C, 5909°F, 3538 K ",
+      "discovered by":"Jöns Jacob Berzelius",
+      "discovery date":"1824",
+      "isotopes":"28Si, 30Si"
     },
     {
       "number": 15,
@@ -289,9 +316,12 @@
       "electron_configuration": "[Ne] 3s2 3p3",
       "color": "colorless (white), red, black",
       "phase": "solid",
-      "density": 1.82,
-      "melting_point": "44.15C (white)",
-      "boiling_point": "280.5C (white)"
+      "density": "1.823 (g/cubic cm)",
+      "melting_point": "44.15°C, 111.47°F, 317.3 K",
+      "boiling_point": "280.5°C, 536.9°F, 553.7 K",
+      "discovered by":"Jöns Jacob Berzelius",
+      "discovery date":"1824",
+      "isotopes":"31P"
     },
     {
       "number": 16,

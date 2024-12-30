@@ -56,14 +56,16 @@ const PeriodicTable = () => {
       ))}
       {selectedElement && (
         <div className="details">
-          <div className="isotopes">
-            <h3>Isotopes</h3>
-            <ul>
-              {selectedElement.isotopes.split(', ').map((isotope, index) => (
-                <li key={index} dangerouslySetInnerHTML={{ __html: formatIsotopes(isotope) }} />
-              ))}
-            </ul>
-          </div>
+          {selectedElement.isotopes && (
+            <div className="isotopes">
+              <h3>Isotopes</h3>
+              <ul>
+                {selectedElement.isotopes.split(', ').map((isotope, index) => (
+                  <li key={index} dangerouslySetInnerHTML={{ __html: formatIsotopes(isotope) }} />
+                ))}
+              </ul>
+            </div>
+          )}
           <div className="discovery">
             <p>Discovery Date: {selectedElement["discovery date"]}</p>
             <p>Discovered By: {selectedElement["discovered by"]}</p>
