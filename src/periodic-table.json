@@ -334,9 +334,12 @@
       "electron_configuration": "[Ne] 3s2 3p4",
       "color": "yellow",
       "phase": "solid",
-      "density": 2.067,
-      "melting_point": "115.21C",
-      "boiling_point": "444.6C"
+      "density": "2.067 (g/cubic cm)",
+      "melting_point": "115.21°C, 239.38°F, 388.36 K ",
+      "boiling_point": "444.61°C, 832.3°F, 717.76 K",
+      "discovered by":"",
+      "discovery date":"Prehistoric",
+      "isotopes":"32S"
     },
     {
       "number": 17,
@@ -350,8 +353,25 @@
       "color": "yellow-green",
       "phase": "gas",
       "density": 3.214,
-      "melting_point": "-101.5C",
-      "boiling_point": "-34.04C"
+      "melting_point": "−101.5°C, −150.7°F, 171.7 K",
+      "boiling_point": "−34.04°C, −29.27°F, 239.11 K",
+      "discovered by":"Carl Wilhelm Scheele",
+      "discovery date":"1774",
+      "isotopes":"35Cl 37Cl",
+      "reactivity": [
+        {
+          "number": 1,
+          "compound": "HCl"
+        },
+        {
+          "number": 17,
+          "compound": "Cl2"
+        },
+        {
+          "number": 6,
+          "compound": "CCl4"
+        }
+      ]
     },
     {
       "number": 18,
@@ -364,9 +384,12 @@
       "electron_configuration": "[Ne] 3s2 3p6",
       "color": "colorless",
       "phase": "gas",
-      "density": 1.784,
+      "density": "0.001633 (g/cubic cm)",
       "melting_point": "-189.34C",
-      "boiling_point": "-185.848C"
+      "boiling_point": "-185.848C",
+      "discovered by":"Lord Rayleigh and Sir William Ramsay",
+      "discovery date":"1894",
+      "isotopes":"40Ar"
     },
     {
       "number": 19,
@@ -379,9 +402,12 @@
       "electron_configuration": "[Ar] 4s1",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 0.862,
-      "melting_point": "63.5C",
-      "boiling_point": "759C"
+      "density": "0.89 (g/cubic cm)",
+      "melting_point": "63.5°C, 146.3°F, 336.7 K",
+      "boiling_point": "759°C, 1398°F, 1032 K",
+      "discovered by":"Humphry Davy",
+      "discovery date":"1807",
+      "isotopes":"39K, 40K, 41K"
     },
     {
       "number": 20,
@@ -394,9 +420,12 @@
       "electron_configuration": "[Ar] 4s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 1.54,
-      "melting_point": "842C",
-      "boiling_point": "1484C"
+      "density": "1.54 (g/cubic cm)",
+      "melting_point": "842°C, 1548°F, 1115 K ",
+      "boiling_point": "484°C, 2703°F, 1757 K ",
+      "discovered by":"Humphry Davy",
+      "discovery date":"1808",
+      "isotopes":"40Ca 42Ca, 43Ca 44Ca, 46Ca 48Ca"
     },
     {
       "number": 21,
@@ -409,9 +438,12 @@
       "electron_configuration": "[Ar] 3d1 4s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 2.989,
-      "melting_point": "1541C",
-      "boiling_point": "2836C"
+      "density": "2.989 (g/cubic cm)",
+      "melting_point": "1541°C, 2806°F, 1814 K",
+      "boiling_point": "2836°C, 5137°F, 3109 K",
+      "discovered by":"Lars Frederik Nilson",
+      "discovery date":"1879",
+      "isotopes":"45Sc"
     },
     {
       "number": 22,
