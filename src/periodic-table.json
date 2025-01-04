@@ -457,8 +457,11 @@
       "color": "silvery-gray-white",
       "phase": "solid",
       "density": 4.54,
-      "melting_point": "1668C",
-      "boiling_point": "3287C"
+      "melting_point": "1670°C, 3038°F, 1943 K",
+      "boiling_point": "3287°C, 5949°F, 3560 K",
+      "discovered by":"William Gregor",
+      "discovery date":"1791",
+      "isotopes":"46Ti 47Ti 48Ti 49Ti 50Ti"
     },
     {
       "number": 23,
@@ -471,9 +474,12 @@
       "electron_configuration": "[Ar] 3d3 4s2",
       "color": "silvery-gray",
       "phase": "solid",
-      "density": 6.11,
-      "melting_point": "1910C",
-      "boiling_point": "3407C"
+      "density": "6.0 (g/cubic cm)",
+      "melting_point": "1910°C, 3470°F, 2183 K",
+      "boiling_point": "3407°C, 6165°F, 3680 K",
+      "discovered by":"Andrés Manuel del Rio",
+      "discovery date":"1801",
+      "isotopes":"50V 51V"
     },
     {
       "number": 24,
@@ -486,9 +492,12 @@
       "electron_configuration": "[Ar] 3d5 4s1",
       "color": "silvery-metallic",
       "phase": "solid",
-      "density": 7.15,
-      "melting_point": "1907C",
-      "boiling_point": "2671C"
+      "density": "7.15 (g/cubic cm)",
+      "melting_point": "1907°C, 3465°F, 2180 K",
+      "boiling_point": "2671°C, 4840°F, 2944 K",
+      "discovered by":"Nicholas Louis Vauquelin",
+      "discovery date":"1798",
+      "isotopes":"50Cr 52Cr 53Cr 54Cr"
     },
     {
       "number": 25,
@@ -501,9 +510,12 @@
       "electron_configuration": "[Ar] 3d5 4s2",
       "color": "silvery-metallic",
       "phase": "solid",
-      "density": 7.44,
-      "melting_point": "1246C",
-      "boiling_point": "2061C"
+      "density": "7.3 (g/cubic cm)",
+      "melting_point": "1246°C, 2275°F, 1519 K",
+      "boiling_point": "2061°C, 3742°F, 2334 K",
+      "discovered by":"Johan Gottlieb Gahn",
+      "discovery date":"1774",
+      "isotopes":"55Mn"
     },
     {
       "number": 26,
@@ -516,9 +528,12 @@
       "electron_configuration": "[Ar] 3d6 4s2",
       "color": "lustrous metallic-gray",
       "phase": "solid",
-      "density": 7.874,
-      "melting_point": "1538C",
-      "boiling_point": "2862C"
+      "density": "7.874 (g/cubic cm)",
+      "melting_point": "1538°C, 2800°F, 1811 K",
+      "boiling_point": "2861°C, 5182°F, 3134 K",
+      "discovered by":"",
+      "discovery date":"approx 3500BC",
+      "isotopes":"54Fe 56Fe, 57Fe 58Fe"
     },
     {
       "number": 27,
