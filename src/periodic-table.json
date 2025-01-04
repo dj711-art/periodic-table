@@ -821,12 +821,12 @@
       "electron_configuration": "[Kr] 4d5 5s1",
       "color": "gray metallic",
       "phase": "solid",
-      "density": 10.28,
+      "density": "10.28 (g/cubic cm)",
       "melting_point": "2622°C, 4752°F, 2895 K",
       "boiling_point": "4639°C, 8382°F, 4912 K",
       "discovered by":"Peter Jacob Hjelm",
       "discovery date":"1781",
-      "isotopes":"92Mo 94Mo 95Mo 96Mo 97Mo 98Mo 100Mo"
+      "isotopes":"92Mo 94Mo 95Mo, 96Mo 97Mo 98Mo, 100Mo"
     },
     {
       "number": 43,
@@ -839,9 +839,12 @@
       "electron_configuration": "[Kr] 4d5 5s2",
       "color": "gray metallic",
       "phase": "solid",
-      "density": 11,
-      "melting_point": "2157C",
-      "boiling_point": "4265C"
+      "density": "11",
+      "melting_point": "2157°C, 3915°F, 2430 K",
+      "boiling_point": "4262°C, 7704°F, 4535 K",
+      "discovered by":"Carlo Perrier and Emilio Segrè",
+      "discovery date":"1937",
+      "isotopes":"97Tc 98Tc"
     },
     {
       "number": 44,
