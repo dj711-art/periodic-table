@@ -836,10 +836,11 @@
       "atomic_mass": 98,
       "x": 7,
       "y": 5,
+      "Block": "d",
       "electron_configuration": "[Kr] 4d5 5s2",
       "color": "gray metallic",
       "phase": "solid",
-      "density": "11",
+      "density": "11 (g/cubic cm)",
       "melting_point": "2157°C, 3915°F, 2430 K",
       "boiling_point": "4262°C, 7704°F, 4535 K",
       "discovered by":"Carlo Perrier and Emilio Segrè",
@@ -854,12 +855,16 @@
       "atomic_mass": 101.07,
       "x": 8,
       "y": 5,
+      "Block": "d", 
       "electron_configuration": "[Kr] 4d7 5s1",
       "color": "gray metallic",
       "phase": "solid",
-      "density": 12.37,
-      "melting_point": "2334C",
-      "boiling_point": "4150C"
+      "density": "12.1 (g/cubic cm)",
+      "melting_point": "2333°C, 4231°F, 2606 K",
+      "boiling_point": "4147°C, 7497°F, 4420 K",
+      "discovered by":"Karl Karlovich Klaus",
+      "discovery date":"1844",
+      "isotopes":"96Ru 98Ru 99Ru, 100Ru 101Ru 102Ru, 104Ru"
     },
     {
       "number": 45,
@@ -869,12 +874,16 @@
       "atomic_mass": 102.90550,
       "x": 9,
       "y": 5,
+      "Block": "d",
       "electron_configuration": "[Kr] 4d8 5s1",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 12.41,
-      "melting_point": "1964C",
-      "boiling_point": "3695C"
+      "density": "12.41 (g/cubic cm)",
+      "melting_point": "1963°C, 3565°F, 2236 K",
+      "boiling_point": "3695°C, 6683°F, 3968 K",
+      "discovered by":"William Hyde Wollaston",
+      "discovery date":"1803",
+      "isotopes":"103Rh"
     },
     {
       "number": 46,
@@ -882,14 +891,18 @@
       "name": "Palladium",
       "category": "transition-metal",
       "atomic_mass": 106.42,
+      "Block": "d",
       "x": 10,
       "y": 5,
       "electron_configuration": "[Kr] 4d10",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 12.02,
-      "melting_point": "1554.9C",
-      "boiling_point": "2963C"
+      "density": "12.02 (g/cubic cm)",
+      "melting_point": "1554.8°C, 2830.6°F, 1828 K",
+      "boiling_point": "2963°C, 5365°F, 3236 K",
+      "discovered by":"William Hyde Wollaston",
+      "discovery date":"1803",
+      "isotopes":"102Pd 104Pd 105Pd, 106Pd 108Pd 110Pd"
     },
     {
       "number": 47,
@@ -899,12 +912,16 @@
       "atomic_mass": 107.8682,
       "x": 11,
       "y": 5,
+      "Block": "d",
       "electron_configuration": "[Kr] 4d10 5s1",
       "color": "silvery",
       "phase": "solid",
-      "density": 10.49,
-      "melting_point": "961.78C",
-      "boiling_point": "2162C"
+      "density": "10.49 (g/cubic cm)",
+      "melting_point": "961.78°C, 1763.2°F, 1234.93 K",
+      "boiling_point": "2162°C, 3924°F, 2435 K",
+      "discovered by":"-",
+      "discovery date":"approx 3000BC",
+      "isotopes":"107Ag 109Ag"
     },
     {
       "number": 48,
@@ -914,12 +931,16 @@
       "atomic_mass": 112.414,
       "x": 12,
       "y": 5,
+      "Block": "d",
       "electron_configuration": "[Kr] 4d10 5s2",
       "color": "silvery blue",
       "phase": "solid",
-      "density": 10.49,
-      "melting_point": "610F (321.07C)",
-      "boiling_point": "1413F (767C)"
+      "density": "8.69 (g/cubic cm)",
+      "melting_point": "321.069°C, 609.924°F, 594.219 K",
+      "boiling_point": "767°C, 1413°F, 1040 K",
+      "discovered by":"Friedrich Stromeyer",
+      "discovery date":"1817",
+      "isotopes":"106Cd 108Cd 110Cd 111Cd 112Cd 113Cd 114Cd 116Cd"
     },
     {
       "number": 49,
@@ -929,12 +950,16 @@
       "atomic_mass": 114.818,
       "x": 13,
       "y": 5,
+      "Block": "p",
       "electron_configuration": "[Kr] 4d10 5s2 5p1",
       "color": "silvery",
       "phase": "solid",
-      "density": 7.31,
-      "melting_point": "314F 156.60C",
-      "boiling_point": "3762F 2072C"
+      "density": "7.31 (g/cubic cm)",
+      "melting_point": "156.60°C, 313.88°F, 429.75 K",
+      "boiling_point": "2027°C, 3681°F, 2300 K",
+      "discovered by":"Ferdinand Reich and Hieronymous Theodor Richter",
+      "discovery date":"1863",
+      "isotopes":"115In"
     },
     {
       "number": 50,
@@ -944,12 +969,16 @@
       "atomic_mass": 118.710,
       "x": 14,
       "y": 5,
+      "Block": "p",
       "electron_configuration": "[Kr] 4d10 5s2 5p2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 7.287,
-      "melting_point": "441F 231.93C",
-      "boiling_point": "4716F 2602C"
+      "density": "7.287 (g/cubic cm)",
+      "melting_point": "231.928°C, 449.47°F, 505.078 K",
+      "boiling_point": "2586°C, 4687°F, 2859 K",
+      "discovered by":"",
+      "discovery date":"approx 2100BC",
+      "isotopes":"112Sn 114Sn 115Sn, 116Sn 117Sn 118Sn, 119Sn 120Sn 122Sn 124Sn"
     },
     {
       "number": 51,
@@ -959,12 +988,16 @@
       "atomic_mass": 121.760,
       "x": 15,
       "y": 5,
+      "Block": "p", 
       "electron_configuration": "[Kr] 4d10 5s2 5p3",
       "color": "silvery",
       "phase": "solid",
-      "density": 6.685,
-      "melting_point": "1168F 630.63C",
-      "boiling_point": "2889F 1587C"
+      "density": "6.685 (g/cubic cm)",
+      "melting_point": "630.628°C, 1167.13°F, 903.778 K",
+      "boiling_point": "1587°C, 2889°F, 1860 K",
+      "discovered by":"",
+      "discovery date":"approx 1600BC",
+      "isotopes":"121Sb 123Sb"
     },
     {
       "number": 52,
@@ -974,12 +1007,16 @@
       "atomic_mass": 127.60,
       "x": 16,
       "y": 5,
+      "Block": "p",
       "electron_configuration": "[Kr] 4d10 5s2 5p4",
       "color": "silvery-white",
       "phase": "solid",
       "density": 6.24,
-      "melting_point": "841F 449.51C",
-      "boiling_point": "1810F 988C"
+      "melting_point": "449.51°C, 841.12°F, 722.66 K",
+      "boiling_point": "988°C, 1810°F, 1261 K",
+      "discovered by":"Franz-Joseph Müller von Reichenstein",
+      "discovery date":"1783",
+      "isotopes":"120Te 122Te 123Te, 124Te 125Te 126Te, 128Te 130Te"
     },
     {
       "number": 53,
@@ -989,12 +1026,16 @@
       "atomic_mass": 126.90447,
       "x": 17,
       "y": 5,
+      "Block": "p",
       "electron_configuration": "[Kr] 4d10 5s2 5p5",
       "color": "lustrous metallic-gray",
       "phase": "solid",
-      "density": 4.933,
-      "melting_point": "237F 113.7C",
-      "boiling_point": "364F 184.3C"
+      "density": "4.933 (g/cubic cm)",
+      "melting_point": "113.7°C, 236.7°F, 386.9 K",
+      "boiling_point": "184.4°C, 363.9°F, 457.6 K",
+      "discovered by":"Bernard Courtois",
+      "discovery date":"1811",
+      "isotopes":"127I"
     },
     {
       "number": 54,
@@ -1004,12 +1045,16 @@
       "atomic_mass": 131.293,
       "x": 18,
       "y": 5,
+      "Block": "p",
       "electron_configuration": "[Kr] 4d10 5s2 5p6",
       "color": "colorless",
       "phase": "gas",
       "density": 5.894,
-      "melting_point": "169F -111.8C",
-      "boiling_point": "163F -108.1C"
+      "melting_point": "−111.75°C, −169.15°F, 161.4 K",
+      "boiling_point": "−108.099°C, −162.578°F, 165.051 K",
+      "discovered by":"Sir William Ramsay and Morris Travers",
+      "discovery date":"1898",
+      "isotopes":"124Xe 126Xe 128Xe, 129Xe 130Xe 131Xe, 132Xe 134Xe 136Xe"
     },
     {
       "number": 55,
@@ -1019,12 +1064,16 @@
       "atomic_mass": 132.90545196,
       "x": 1,
       "y": 6,
+      "Block": "s",
       "electron_configuration": "[Xe] 6s1",
       "color": "silvery-gold",
       "phase": "solid",
-      "density": 1.93,
-      "melting_point": "83F 28.44C",
-      "boiling_point": "1240F 671C"
+      "density": "1.873 (g/cubic cm)",
+      "melting_point": "28.5°C, 83.3°F, 301.7 K",
+      "boiling_point": "671°C, 1240°F, 944 K",
+      "discovered by":"Robert Bunsen and Gustav Kirchhoff",
+      "discovery date":"1860",
+      "isotopes":"133Cs"
     },
     {
       "number": 56,
@@ -1034,12 +1083,16 @@
       "atomic_mass": 137.327,
       "x": 2,
       "y": 6,
+      "Block": "s",
       "electron_configuration": "[Xe] 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 3.62,
-      "melting_point": "1334F 729C",
-      "boiling_point": "2979F 163797C"
+      "density": "3.62 (g/cubic cm)",
+      "melting_point": "727°C, 1341°F, 1000 K",
+      "boiling_point": "1845°C, 3353°F, 2118 K",
+      "discovered by":"Humphry Davy",
+      "discovery date":"1808",
+      "isotopes":"130Ba 132Ba 134Ba, 135Ba 136Ba 137Ba 138Ba"
     },
     {
       "number": 57,
@@ -1049,12 +1102,16 @@
       "atomic_mass": 138.90547,
       "x": 3,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 5d1 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 6.145,
-      "melting_point": "920C",
-      "boiling_point": "3464C"
+      "density": "6.15 (g/cubic cm)",
+      "melting_point": "920°C, 1688°F, 1193 K",
+      "boiling_point": "3464°C, 6267°F, 3737 K",
+      "discovered by":"Carl Gustaf Mosander",
+      "discovery date":"1839",
+      "isotopes":"138La"
     },
     {
       "number": 58,
@@ -1064,12 +1121,16 @@
       "atomic_mass": 140.116,
       "x": 4,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f1 5d1 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 6.770,
-      "melting_point": "1463F 795C",
-      "boiling_point": "6229F 3443C"
+      "density": "6.77 (g/cubic cm)",
+      "melting_point": "799°C, 1470°F, 1072 K",
+      "boiling_point": "3443°C, 6229°F, 3716 K",
+      "discovered by":"Jöns Jacob Berzelius and Wilhelm Hisinger",
+      "discovery date":"1803",
+      "isotopes":"136Ce 138Ce, 140Ce 142Ce"
     },
     {
       "number": 59,
@@ -1079,12 +1140,16 @@
       "atomic_mass": 140.90766,
       "x": 5,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f3 6s2",
       "color": "silvery-white",
       "phase": "solid",
       "density": 6.773,
-      "melting_point": "1715F 935C",
-      "boiling_point": "6368F 3520C"
+      "melting_point": "931°C, 1708°F, 1204 K",
+      "boiling_point": "3520°C, 6368°F, 3793 K",
+      "discovered by":"Carl Auer von Welsbach",
+      "discovery date":"1885",
+      "isotopes":"141Pr"
     },
     {
       "number": 60,
@@ -1094,12 +1159,16 @@
       "atomic_mass": 144.242,
       "x": 6,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f4 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 7.007,
-      "melting_point": "1875F 1024C",
-      "boiling_point": "5565F 3074C"
+      "density": "7.01 (g/cubic cm)",
+      "melting_point": "1016°C, 1861°F, 1289 K",
+      "boiling_point": "3074°C, 5565°F, 3347 K",
+      "discovered by":"Carl Auer von Welsbach",
+      "discovery date":"1885",
+      "isotopes":"142Nd 143Nd 144Nd, 145Nd 146Nd 148Nd 150Nd"
     },
     {
       "number": 61,
@@ -1109,12 +1178,16 @@
       "atomic_mass": 145,
       "x": 7,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f5 6s2",
       "color": "metallic",
       "phase": "solid",
-      "density": 7.26,
-      "melting_point": "1908F 1042C",
-      "boiling_point": "5432F 3000C"
+      "density": "7.26 (g/cubic cm)",
+      "melting_point": "1042°C, 1908°F, 1315 K",
+      "boiling_point": "3000°C, 5432°F, 3273 K ",
+      "discovered by":"Jacob .A. Marinsky, Lawrence E. Glendenin, and Charles D. Coryell",
+      "discovery date":"1945",
+      "isotopes":"145Pm 147Pm"
     },
     {
       "number": 62,
@@ -1124,12 +1197,16 @@
       "atomic_mass": 150.36,
       "x": 8,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f6 6s2",
       "color": "silvery",
       "phase": "solid",
-      "density": 7.52,
-      "melting_point": "1072C",
-      "boiling_point": "1794C"
+      "density": "7.52 (g/cubic cm)",
+      "melting_point": "1072°C, 1962°F, 1345 K",
+      "boiling_point": "1794°C, 3261°F, 2067 K",
+      "discovered by":"Paul-Émile Lecoq de Boisbaudran",
+      "discovery date":"1879",
+      "isotopes":"144Sm 147Sm 148Sm, 149Sm 150Sm 152Sm"
     },
     {
       "number": 63,
@@ -1139,12 +1216,16 @@
       "atomic_mass": 151.964,
       "x": 9,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f7 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 5.243,
-      "melting_point": "822C",
-      "boiling_point": "1529C"
+      "density": "5.243 (g/cubic cm)",
+      "melting_point": "822°C, 1512°F, 1095 K",
+      "boiling_point": "1529°C, 2784°F, 1802 K",
+      "discovered by":"Eugène-Anatole Demarçay",
+      "discovery date":"1901",
+      "isotopes":"151Eu 153Eu"
     },
     {
       "number": 64,
@@ -1154,12 +1235,16 @@
       "atomic_mass": 157.25,
       "x": 10,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f7 5d1 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 7.901,
-      "melting_point": "1312C",
-      "boiling_point": "3273C"
+      "density": "7.901 (g/cubic cm)",
+      "melting_point": "1313°C, 2395°F, 1586 K",
+      "boiling_point": "3273°C, 5923°F, 3546 K",
+      "discovered by":"Jean Charles Galissard de Marignac",
+      "discovery date":"1880",
+      "isotopes":"152Gd 154Gd 155Gd, 156Gd 157Gd 158Gd, 160Gd"
     },
     {
       "number": 65,
@@ -1169,12 +1254,16 @@
       "atomic_mass": 158.92535,
       "x": 11,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f9 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 8.229,
-      "melting_point": "1356C",
-      "boiling_point": "3230C"
+      "density": "8.229, 8.27 (g/cubic cm)",
+      "melting_point": "1359°C, 2478°F, 1632 K",
+      "boiling_point": "3230°C, 5846°F, 3503 K",
+      "discovered by":"Carl Gustaf Mosander",
+      "discovery date":"1843",
+      "isotopes":"159Tb"
     },
     {
       "number": 66,
@@ -1184,12 +1273,16 @@
       "atomic_mass": 162.500,
       "x": 12,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f10 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 8.55,
-      "melting_point": "1412C",
-      "boiling_point": "2562C"
+      "density": "8.55 (g/cubic cm)",
+      "melting_point": "1412°C, 2574°F, 1685 K",
+      "boiling_point": "2567°C, 4653°F, 2840 K",
+      "discovered by":"Paul Émile Lecoq de Boisbaudran",
+      "discovery date":"1886",
+      "isotopes":"156Dy 158Dy 160Dy, 161Dy 162Dy 163Dy 164Dy"
     },
     {
       "number": 67,
@@ -1199,12 +1292,16 @@
       "atomic_mass": 164.93033,
       "x": 13,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f11 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 8.795,
-      "melting_point": "1474C",
-      "boiling_point": "2700C"
+      "density": "8.795 (g/cubic cm)",
+      "melting_point": "1472°C, 2682°F, 1745 K",
+      "boiling_point": "2700°C, 4892°F, 2973 K",
+      "discovered by":"Per Teodor Cleve at Uppsala, Sweden and independently by Marc Delafontaine and Louis Soret in Geneva, Switzerlande",
+      "discovery date":"1878",
+      "isotopes":"165Ho"
     },
     {
       "number": 68,
@@ -1214,12 +1311,16 @@
       "atomic_mass": 167.259,
       "x": 14,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f12 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 9.066,
-      "melting_point": "1529C",
-      "boiling_point": "2868C"
+      "density": "9.066 (g/cubic cm)",
+      "melting_point": "1529°C, 2784°F, 1802 K",
+      "boiling_point": "2868°C, 5194°F, 3141 K",
+      "discovered by":"Carl Gustaf Mosander",
+      "discovery date":"1843",
+      "isotopes":"162Er 164Er 166Er, 167Er 168Er 170Er"
     },
     {
       "number": 69,
@@ -1229,12 +1330,17 @@
       "atomic_mass": 168.93422,
       "x": 15,
       "y": 9,
-      "electron_configuration": "[Xe] 4f12 6s2",
+      "Block": "f",
+      "electron_configuration": "[Xe] 4f13 6s2",
       "color": "silvery-gray",
       "phase": "solid",
-      "density": 9.321,
-      "melting_point": "1545C",
-      "boiling_point": "1950C"
+      "density": "9.321 (g/cubic cm)",
+      "melting_point": "1545°C, 2813°F, 1818 K",
+      "boiling_point": "1950°C, 3542°F, 2223 K",
+      "discovered by":"Per Teodor Cleve",
+      "discovery date":"1879",
+      "isotopes":"169Tm"
+
     },
     {
       "number": 70,
@@ -1244,12 +1350,16 @@
       "atomic_mass": 173.045,
       "x": 16,
       "y": 9,
-      "electron_configuration": "[Xe] 4f13 6s2",
+      "Block": "f",
+      "electron_configuration": "[Xe] 4f14 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 6.965,
-      "melting_point": "824C",
-      "boiling_point": "1196C"
+      "density": "6.965 (g/cubic cm)",
+      "melting_point": "824°C, 1515°F, 1097 K",
+      "boiling_point": "1196°C, 2185°F, 1469 K",
+      "discovered by":"Jean Charles Galissard de Marignac",
+      "discovery date":"1878",
+      "isotopes":"168Yb 170Yb 171Yb, 172Yb 173Yb 174Yb 176Yb"
     },
     {
       "number": 71,
@@ -1259,12 +1369,16 @@
       "atomic_mass": 174.9668,
       "x": 17,
       "y": 9,
+      "Block": "f",
       "electron_configuration": "[Xe] 4f14 5d1 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 9.841,
-      "melting_point": "1652C",
-      "boiling_point": "3402C"
+      "density": "9.841 (g/cubic cm)",
+      "melting_point": "1663°C, 3025°F, 1936 K",
+      "boiling_point": "3402°C, 6156°F, 3675 K",
+      "discovered by":"Georges Urbain in Paris, France and independently by Charles James in New Hampshire, USA",
+      "discovery date":"1907",
+      "isotopes":"175Lu"
     },
     {
       "number": 72,
@@ -1274,12 +1388,16 @@
       "atomic_mass": 178.49,
       "x": 4,
       "y": 6,
+      "Block": "d",
       "electron_configuration": "[Xe] 4f14 5d2 6s2",
       "color": "silvery-gray",
       "phase": "solid",
-      "density": 13.31,
-      "melting_point": "2233C",
-      "boiling_point": "4603C"
+      "density": "13.3 (g/cubic cm)",
+      "melting_point": "2233°C, 4051°F, 2506 K",
+      "boiling_point": "4600°C, 8312°F, 4873 K",
+      "discovered by":"George Charles de Hevesy and Dirk Coster",
+      "discovery date":"1923",
+      "isotopes":"174Hf 176Hf 177Hf, 178Hf 179Hf 180Hf" 
     },
     {
       "number": 73,
@@ -1289,12 +1407,16 @@
       "atomic_mass": 180.94788,
       "x": 5,
       "y": 6,
+      "Block": "d",
       "electron_configuration": "[Xe] 4f14 5d3 6s2",
       "color": "gray-blue",
       "phase": "solid",
-      "density": 16.69,
-      "melting_point": "3017C",
-      "boiling_point": "5458C"
+      "density": "16.4 (g/cubic cm)",
+      "melting_point": "3017°C, 5463°F, 3290 K",
+      "boiling_point": "5455°C, 9851°F, 5728 K",
+      "discovered by":"Anders Gustaf Ekeberg",
+      "discovery date":"1802",
+      "isotopes":"180Ta 181Ta"
     },
     {
       "number": 74,
@@ -1304,12 +1426,16 @@
       "atomic_mass": 183.84,
       "x": 6,
       "y": 6,
+      "Block": "d",
       "electron_configuration": "[Xe] 4f14 5d4 6s2",
       "color": "grayish-white",
       "phase": "solid",
-      "density": 19.25,
-      "melting_point": "3422C",
-      "boiling_point": "5555C"
+      "density": "19.3 (g/cubic cm)",
+      "melting_point": "3414°C, 6177°F, 3687 K",
+      "boiling_point": "5555°C, 10031°F, 5828 K",
+      "discovered by":"Jöns Jacob Berzelius and Wilhelm Hisinger",
+      "discovery date":"1783",
+      "isotopes":"180W 182W 183W, 184W 186W"
     },
     {
       "number": 75,
@@ -1319,12 +1445,16 @@
       "atomic_mass": 186.207,
       "x": 7,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d4 6s2",
+      "Block": "d",
+      "electron_configuration": "[Xe] 4f14 5d5 6s2",
       "color": "silvery-gray",
       "phase": "solid",
-      "density": 21.02,
-      "melting_point": "3186C",
-      "boiling_point": "5596C"
+      "density": "20.8 (g/cubic cm)",
+      "melting_point": "3185°C, 5765°F, 3458 K",
+      "boiling_point": "5590°C, 10094°F, 5863 K",
+      "discovered by":"Walter Noddack, Ida Tacke and Otto Berg",
+      "discovery date":"1925",
+      "isotopes":"185Re 187Re"
     },
     {
       "number": 76,
@@ -1334,12 +1464,16 @@
       "atomic_mass": 190.23,
       "x": 8,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d5 6s2",
+      "Block": "d",
+      "electron_configuration": "[Xe] 4f14 5d6 6s2",
       "color": "bluish-white",
       "phase": "solid",
-      "density": 22.59,
-      "melting_point": "3033C",
-      "boiling_point": "5012C"
+      "density": "22.5872 (g/cubic cm)",
+      "melting_point": "3033°C, 5491°F, 3306 K",
+      "boiling_point": "008°C, 9046°F, 5281 K",
+      "discovered by":"Smithson Tennant",
+      "discovery date":"1803",
+      "isotopes":"184Os 186Os 187Os 188Os, 189Os 190Os 192Os"
     },
     {
       "number": 77,
@@ -1349,12 +1483,16 @@
       "atomic_mass": 192.217,
       "x": 9,
       "y": 6,
-      "electron_configuration": "[Xe] 4f14 5d6 6s2",
+      "Block": "d",
+      "electron_configuration": "[Xe] 4f14 5d7 6s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 22.56,
-      "melting_point": "2446C",
-      "boiling_point": "4428C"
+      "density": "22.5622 (g/cubic cm)",
+      "melting_point": "2446°C, 4435°F, 2719 K",
+      "boiling_point": "4428°C, 8002°F, 4701 K",
+      "discovered by":"Smithson Tennant",
+      "discovery date":"1803",
+      "isotopes":"191Ir 193Ir"
     },
     {
       "number": 78,
@@ -1364,12 +1502,16 @@
       "atomic_mass": 195.084,
       "x": 10,
       "y": 6,
+      "Block": "d",
       "electron_configuration": "[Xe] 4f14 5d9 6s1",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 21.45,
-      "melting_point": "1768.3C",
-      "boiling_point": "3825C"
+      "density": "21.5 (g/cubic cm)",
+      "melting_point": "1768.2°C, 3214.8°F, 2041.4 K",
+      "boiling_point": "3825°C, 6917°F, 4098 K",
+      "discovered by":"-",
+      "discovery date":"Known to native South Americans before Columbus, and taken to Europe around 1750",
+      "isotopes":"190Pt 192Pt 194Pt, 195Pt 196Pt 198Pt"
     },
     {
       "number": 79,
@@ -1379,12 +1521,16 @@
       "atomic_mass": 196.966569,
       "x": 11,
       "y": 6,
+      "Block": "d",
       "electron_configuration": "[Xe] 4f14 5d10 6s1",
       "color": "yellow",
       "phase": "solid",
-      "density": 19.32,
-      "melting_point": "1064.18C",
-      "boiling_point": "2970C"
+      "density": "19.3 (g/cubic cm)",
+      "melting_point": "1064.18°C, 1947.52°F, 1337.33 K",
+      "boiling_point": "2836°C, 5137°F, 3109 K",
+      "discovered by":"-",
+      "discovery date":"approx 3000BC",
+      "isotopes":"197Au 198Au"
     },
     {
       "number": 80,
@@ -1394,12 +1540,16 @@
       "atomic_mass": 200.592,
       "x": 12,
       "y": 6,
+      "Block": "d",
       "electron_configuration": "[Xe] 4f14 5d10 6s2",
       "color": "silvery",
       "phase": "liquid",
-      "density": 13.534,
-      "melting_point": "-38.83C",
-      "boiling_point": "356.73C"
+      "density": "13.5336 (g/cubic cm)",
+      "melting_point": "−38.829°C, −37.892°F, 234.321 K",
+      "boiling_point": "356.619°C, 673.914°F, 629.769 K",
+      "discovered by":"-",
+      "discovery date":"approx 3000BC",
+      "isotopes":"196Hg 198Hg 199Hg, 200Hg 201Hg 202Hg 204Hg"
     },
     {
       "number": 81,
@@ -1409,12 +1559,16 @@
       "atomic_mass": 204.38,
       "x": 13,
       "y": 6,
+      "Block": "p",
       "electron_configuration": "[Xe] 4f14 5d10 6s2 6p1",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 11.85,
-      "melting_point": "304C",
-      "boiling_point": "1473C"
+      "density": "11.8 (g/cubic cm)",
+      "melting_point": "304°C, 579°F, 577 K",
+      "boiling_point": "1473°C, 2683°F, 1746 K",
+      "discovered by":"William Crookes",
+      "discovery date":"1861",
+      "isotopes":"203Tl 205Tl"
     },
     {
       "number": 82,
@@ -1424,12 +1578,16 @@
       "atomic_mass": 207.2,
       "x": 14,
       "y": 6,
+      "Block": "p",
       "electron_configuration": "[Xe] 4f14 5d10 6s2 6p2",
       "color": "bluish-white",
       "phase": "solid",
-      "density": 11.34,
-      "melting_point": "327.46C",
-      "boiling_point": "1749C"
+      "density": "11.3 (g/cubic cm)",
+      "melting_point": "327.462°C, 621.432°F, 600.612 K",
+      "boiling_point": "1749°C, 3180°F, 2022 K",
+      "discovered by":"-",
+      "discovery date":"Ancient",
+      "isotopes":"204Pb 206Pb 207Pb, 208Pb"
     },
     {
       "number": 83,
@@ -1439,12 +1597,16 @@
       "atomic_mass": 208.9804,
       "x": 15,
       "y": 6,
+      "Block": "p",
       "electron_configuration": "[Xe] 4f14 5d10 6s2 6p3",
       "color": "silvery-white with a pink tinge",
       "phase": "solid",
-      "density": 9.78,
-      "melting_point": "271.3C",
-      "boiling_point": "1564C"
+      "density": "9.79 (g/cubic cm)",
+      "melting_point": "271.406°C, 520.531°F, 544.556 K",
+      "boiling_point": "1564°C, 2847°F, 1837 K",
+      "discovered by":"-",
+      "discovery date":"approx 1500",
+      "isotopes":"209Bi"
     },
     {
       "number": 84,
@@ -1454,12 +1616,16 @@
       "atomic_mass": 209,
       "x": 16,
       "y": 6,
+      "Block": "p",
       "electron_configuration": "[Xe] 4f14 5d10 6s2 6p4",
       "color": "silvery",
       "phase": "solid",
-      "density": 9.196,
-      "melting_point": "254C",
-      "boiling_point": "962C"
+      "density": "9.20 (g/cubic cm)",
+      "melting_point": "254°C, 489°F, 527 K",
+      "boiling_point": "962°C, 1764°F, 1235 K",
+      "discovered by":"Marie Curie",
+      "discovery date":"1898",
+      "isotopes":"209Po 210Po"
     },
     {
       "number": 85,
@@ -1469,12 +1635,16 @@
       "atomic_mass": 210,
       "x": 17,
       "y": 6,
+      "Block": "p",
       "electron_configuration": "[Xe] 4f14 5d10 6s2 6p5",
       "color": "unknown",
       "phase": "solid",
       "density": 7,
-      "melting_point": "302C",
-      "boiling_point": "337C"
+      "melting_point": "300°C, 572°F, 573 K",
+      "boiling_point": "350°C, 662°F, 623 K",
+      "discovered by":"Dale R. Corson, Kenneth Ross MacKenzie, and Emilio Segrè",
+      "discovery date":"1940",
+      "isotopes":"210At 211At"
     },
     {
       "number": 86,
@@ -1484,12 +1654,16 @@
       "atomic_mass": 222,
       "x": 18,
       "y": 6,
+      "Block": "p",
       "electron_configuration": "[Xe] 4f14 5d10 6s2 6p6",
       "color": "colorless",
       "phase": "gas",
-      "density": 9.73,
-      "melting_point": "-71C",
-      "boiling_point": "-61.7C"
+      "density": "0.009074 (g/cubic cm)",
+      "melting_point": "−71°C, −96°F, 202 K",
+      "boiling_point": "−61.7°C, −79.1°F, 211.5 K",
+      "discovered by":"Friedrich Ernst Dorn",
+      "discovery date":"1900",
+      "isotopes":"211Rn 220Rn 222Rn"
     },
     {
       "number": 87,
@@ -1499,12 +1673,16 @@
       "atomic_mass": 223,
       "x": 1,
       "y": 7,
+      "Block": "s",
       "electron_configuration": "[Rn] 7s1",
       "color": "unknown",
       "phase": "solid",
-      "density": 1.87,
-      "melting_point": "27C",
-      "boiling_point": "677C"
+      "density": "Unknown",
+      "melting_point": "21°C, 70°F, 294 K",
+      "boiling_point": "650°C, 1202°F, 923 K",
+      "discovered by":"Marguerite Perey",
+      "discovery date":"1939",
+      "isotopes":"223Fr"
     },
     {
       "number": 88,
@@ -1514,12 +1692,17 @@
       "atomic_mass": 226,
       "x": 2,
       "y": 7,
+      "Block": "s",
       "electron_configuration": "[Rn] 7s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 5.5,
-      "melting_point": "700C",
-      "boiling_point": "1737C"
+      "density": "5 (g/cubic cm)",
+      "melting_point": "696°C, 1285°F, 969 K",
+      "boiling_point": "1500°C, 2732°F, 1773 K",
+      "discovered by":"Marie Curie and Pierre Curie",
+      "discovery date":"1898",
+      "isotopes":"223Ra 224Ra 226Ra, 228Ra"
+
     },
     {
       "number": 89,
@@ -1529,12 +1712,16 @@
       "atomic_mass": 227,
       "x": 3,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 6d1 7s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 10.07,
-      "melting_point": "1050C",
-      "boiling_point": "3200C"
+      "density": "10 (g/cubic cm)",
+      "melting_point": "1050°C, 1922°F, 1323 K",
+      "boiling_point": "43200°C, 5792°F, 3473 K",
+      "discovered by":"Andrew Debierne",
+      "discovery date":"1899",
+      "isotopes":"227Ac"
     },
     {
       "number": 90,
@@ -1544,12 +1731,16 @@
       "atomic_mass": 232.0377,
       "x": 4,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 6d2 7s2",
       "color": "silvery",
       "phase": "solid",
-      "density": 11.72,
-      "melting_point": "1750C",
-      "boiling_point": "4788C"
+      "density": "11.7 (g/cubic cm)",
+      "melting_point": "1750°C, 3182°F, 2023 K",
+      "boiling_point": "4785°C, 8645°F, 5058 K",
+      "discovered by":"Jöns Jacob Berzelius",
+      "discovery date":"1829",
+      "isotopes":"230Th 232Th"
     },
     {
       "number": 91,
@@ -1559,12 +1750,16 @@
       "atomic_mass": 231.03588,
       "x": 5,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f2 6d1 7s2",
       "color": "bright silvery metallic",
       "phase": "solid",
-      "density": 15.37,
-      "melting_point": "1572C",
-      "boiling_point": "4000C"
+      "density": "15.4 (g/cubic cm)",
+      "melting_point": "1572°C, 2862°F, 1845 K",
+      "boiling_point": "4000°C, 7232°F, 4273 K",
+      "discovered by":"Kasimir Fajans and Otto Göhring ",
+      "discovery date":"1913",
+      "isotopes":"231Pa"
     },
     {
       "number": 92,
@@ -1574,12 +1769,16 @@
       "atomic_mass": 238.02891,
       "x": 6,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f3 6d1 7s2",
       "color": "silvery-gray",
       "phase": "solid",
-      "density": 18.95,
-      "melting_point": "1135C",
-      "boiling_point": "4131C"
+      "density": "19.1 (g/cubic cm)",
+      "melting_point": "1135°C, 2075°F, 1408 K",
+      "boiling_point": "4131°C, 7468°F, 4404 K",
+      "discovered by":"Martin Heinrich Klaproth",
+      "discovery date":"1789",
+      "isotopes":"233U 234U 235U 236U 238U"
     },
     {
       "number": 93,
@@ -1589,12 +1788,16 @@
       "atomic_mass": 237,
       "x": 7,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f4 6d1 7s2",
       "color": "silvery metallic",
       "phase": "solid",
-      "density": 20.45,
-      "melting_point": "644C",
-      "boiling_point": "3902C"
+      "density": "20.2 (g/cubic cm)",
+      "melting_point": "644°C, 1191°F, 917 K",
+      "boiling_point": "3902°C, 7056°F, 4175 K",
+      "discovered by":"Edwin McMillan and Philip H. Abelson",
+      "discovery date":"1940",
+      "isotopes":"236Np 237Np"
     },
     {
       "number": 94,
@@ -1604,12 +1807,16 @@
       "atomic_mass": 244,
       "x": 8,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f6 7s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 19.84,
-      "melting_point": "640C",
-      "boiling_point": "3235C"
+      "density": "19.7 (g/cubic cm)",
+      "melting_point": "640°C, 1184°F, 913 K",
+      "boiling_point": "3228°C, 5842°F, 3501 K",
+      "discovered by":"Glenn T. Seaborg and colleagues",
+      "discovery date":"1940",
+      "isotopes":"238Pu 239Pu 240Pu 241Pu 242Pu 244Pu"
     },
     {
       "number": 95,
@@ -1619,12 +1826,16 @@
       "atomic_mass": 243,
       "x": 9,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f7 7s2",
       "color": "silvery-white",
       "phase": "solid",
-      "density": 13.69,
-      "melting_point": "1176C",
-      "boiling_point": "2011C"
+      "density": "12 (g/cubic cm)",
+      "melting_point": "1176°C, 2149°F, 1449 K",
+      "boiling_point": "2011°C, 3652°F, 2284 K",
+      "discovered by":"Glenn T. Seaborg and colleagues",
+      "discovery date":"1944",
+      "isotopes":"241Am 243Am"
     },
     {
       "number": 96,
@@ -1634,12 +1845,16 @@
       "atomic_mass": 247,
       "x": 10,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f7 6d1 7s2",
       "color": "silvery metallic",
       "phase": "solid",
-      "density": 13.51,
-      "melting_point": "1340C",
-      "boiling_point": "3110C"
+      "density": "13.51 (g/cubic cm)",
+      "melting_point": "1345°C, 2453°F, 1618 K",
+      "boiling_point": "Unknown",
+      "discovered by":"Glenn T. Seaborg and colleagues",
+      "discovery date":"1944",
+      "isotopes":"243Cm 244Cm 245Cm, 246Cm 247Cm 248Cm"
     },
     {
       "number": 97,
@@ -1649,12 +1864,16 @@
       "atomic_mass": 247,
       "x": 11,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f9 7s2",
       "color": "silvery",
       "phase": "solid",
-      "density": 14.78,
-      "melting_point": "986C",
-      "boiling_point": "2627C"
+      "density": "14.78 (g/cubic cm)",
+      "melting_point": "986°C, 1807°F, 1259 K",
+      "boiling_point": "Unknown" ,
+      "discovered by":"Stanley Thompson, Albert Ghiorso, and Glenn Seaborg",
+      "discovery date":"1949",
+      "isotopes":"247Bk 248Bk 249Bk" 
     },
     {
       "number": 98,
@@ -1664,12 +1883,16 @@
       "atomic_mass": 251,
       "x": 12,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f10 7s2",
       "color": "silvery",
       "phase": "solid",
-      "density": 15.1,
-      "melting_point": "900C",
-      "boiling_point": "1472C"
+      "density": "15.1 (g/cubic cm)",
+      "melting_point": "900°C, 1652°F, 1173 K",
+      "boiling_point": "Unknown",
+      "discovered by":"Stanley Thompson, Kenneth Street, Jr., Albert Ghiorso, and Glenn Seaborg",
+      "discovery date":"1950",
+      "isotopes":"249Cf 250Cf 251Cf, 252Cf"
     },
     {
       "number": 99,
@@ -1679,12 +1902,16 @@
       "atomic_mass": 252,
       "x": 13,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f11 7s2",
       "color": "silvery",
       "phase": "solid",
-      "density": 8.84,
-      "melting_point": "860C",
-      "boiling_point": "996C"
+      "density": "Unknown",
+      "melting_point": "860°C, 1580°F, 1133 K",
+      "boiling_point": "Unknown",
+      "discovered by":"Albert Ghiorso and colleagues",
+      "discovery date":"1952",
+      "isotopes":"252Es"
     },
     {
       "number": 100,
@@ -1694,12 +1921,16 @@
       "atomic_mass": 257,
       "x": 14,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f12 7s2",
       "color": "unknown",
       "phase": "solid",
-      "density": "unknown",
-      "melting_point": "1527C",
-      "boiling_point": "unknown"
+      "density": "Unknown",
+      "melting_point": "1527°C, 2781°F, 1800 K",
+      "boiling_point": "Unknown",
+      "discovered by":"Albert Ghiorso and colleagues",
+      "discovery date":"1953",
+      "isotopes":"257Fm"
     },
     {
       "number": 101,
@@ -1709,12 +1940,16 @@
       "atomic_mass": 258,
       "x": 15,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f13 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
-      "melting_point": "827C",
-      "boiling_point": "unknown"
+      "melting_point": "827°C, 1521°F, 1100 K",
+      "boiling_point": "unknown",
+      "discovered by":"Albert Ghiorso and colleagues",
+      "discovery date":"1955",
+      "isotopes":"258Md 260Md"
     },
     {
       "number": 102,
@@ -1724,12 +1959,16 @@
       "atomic_mass": 259,
       "x": 16,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f14 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
-      "melting_point": "827C",
-      "boiling_point": "unknown"
+      "melting_point": "827°C, 1521°F, 1100 K",
+      "boiling_point": "unknown",
+      "discovered by":"Georgy Flerov and colleagues and at Dubna, near Moscow, Russia, and independently by Albert Ghiorso and colleagues at Berkeley, California, USA",
+      "discovery date":"1963",
+      "isotopes":"259No"
     },
     {
       "number": 103,
@@ -1739,12 +1978,16 @@
       "atomic_mass": 262,
       "x": 17,
       "y": 10,
+      "Block": "f",
       "electron_configuration": "[Rn] 5f14 7s2 7p1",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
-      "melting_point": "1627C",
-      "boiling_point": "unknown"
+      "melting_point": "1627°C, 2961°F, 1900 K",
+      "boiling_point": "unknown",
+      "discovered by":"Georgy Flerov and colleagues and at Dubna, near Moscow, Russia, and independently by Albert Ghiorso and colleagues at Berkeley, California, USA",
+      "discovery date":"1965",
+      "isotopes":"262Lr"
     },
     {
       "number": 104,
@@ -1754,12 +1997,16 @@
       "atomic_mass": 267,
       "x": 4,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d2 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": 23.2,
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Georgy Flerov and colleagues and at Dubna, near Moscow, Russia, and independently by Albert Ghiorso and colleagues at Berkeley, California, USA",
+      "discovery date":"1964",
+      "isotopes":"265Rf"
     },
     {
       "number": 105,
@@ -1769,12 +2016,16 @@
       "atomic_mass": 270,
       "x": 5,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d3 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": 29.3,
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Scientists at both Berkeley, California, USA, and Dubna, near Moscow, Russia",
+      "discovery date":"1968-1970",
+      "isotopes":"268Db"
     },
     {
       "number": 106,
@@ -1784,12 +2035,16 @@
       "atomic_mass": 271,
       "x": 6,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d4 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": 35.0,
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Albert Ghiorso and colleagues",
+      "discovery date":"1974",
+      "isotopes":"271Sg"
     },
     {
       "number": 107,
@@ -1799,12 +2054,16 @@
       "atomic_mass": 270,
       "x": 7,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d5 7s2",
       "color": "unknown",
       "phase": "solid",
-      "density": 37.1,
+      "density": "Unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Peter Armbruster, Gottfried Münzenberg and colleagues",
+      "discovery date":"1981",
+      "isotopes":"272Bh"
     },
     {
       "number": 108,
@@ -1814,12 +2073,16 @@
       "atomic_mass": 277,
       "x": 8,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d6 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": 40.7,
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Peter Armbruster, Gottfried Münzenberg",
+      "discovery date":"1984",
+      "isotopes":"270Hs"
     },
     {
       "number": 109,
@@ -1829,12 +2092,16 @@
       "atomic_mass": 278,
       "x": 9,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d7 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Peter Armbruster, Gottfried Münzenberg",
+      "discovery date":"1982",
+      "isotopes":"276Mt"
     },
     {
       "number": 110,
@@ -1849,7 +2116,10 @@
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Sigurd Hofmann, Peter Armbruster and Gottfried Münzenberg",
+      "discovery date":"1994",
+      "isotopes":"281Ds"
     },
     {
       "number": 111,
@@ -1859,12 +2129,16 @@
       "atomic_mass": 282,
       "x": 11,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d10 7s1",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Sigurd Hofmann, Peter Armbruster and Gottfried Münzenberg",
+      "discovery date":"1994",
+      "isotopes":"280Rg"
     },
     {
       "number": 112,
@@ -1874,12 +2148,16 @@
       "atomic_mass": 285,
       "x": 12,
       "y": 7,
+      "Block": "d",
       "electron_configuration": "[Rn] 5f14 6d10 7s2",
       "color": "unknown",
       "phase": "solid",
       "density": 14.0,
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Sigurd Hofmann and colleagues",
+      "discovery date":"1996",
+      "isotopes":"285Cn"
     },
     {
       "number": 113,
@@ -1889,12 +2167,16 @@
       "atomic_mass": 286,
       "x": 13,
       "y": 7,
+      "Block": "p",
       "electron_configuration": "[Rn] 5f14 6d10 7s2 7p1",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Scientists from RIKEN (The Institute of Physical and Chemical Research) in Japan",
+      "discovery date":"2004",
+      "isotopes":"284Nh 286Nh"
     },
     {
       "number": 114,
@@ -1904,12 +2186,16 @@
       "atomic_mass": 289,
       "x": 14,
       "y": 7,
+      "Block": "p",
       "electron_configuration": "[Rn] 5f14 6d10 7s2 7p2",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Scientists from the Joint Institute for Nuclear Research in Dubna, Russia and the Lawrence Livermore National Laboratory, California, USA.",
+      "discovery date":"1999",
+      "isotopes":"289Fl"
     },
     {
       "number": 115,
@@ -1919,12 +2205,16 @@
       "atomic_mass": 290,
       "x": 15,
       "y": 7,
+      "Block": "p",
       "electron_configuration": "[Rn] 5f14 6d10 7s2 7p3",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Scientists from the Joint Institute for Nuclear Research in Dubna, Russia, the Lawrence Livermore National Laboratory in California, USA, and Oak Ridge National Laboratory in Tennessee, USA ",
+      "discovery date":"2010",
+      "isotopes":"288Mc 289Mc"
     },
     {
       "number": 116,
@@ -1934,12 +2224,16 @@
       "atomic_mass": 293,
       "x": 16,
       "y": 7,
+      "Block": "p",
       "electron_configuration": "[Rn] 5f14 6d10 7s2 7p4",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Scientists from the Joint Institute for Nuclear Research in Dubna, Russia and the Lawrence Livermore National Laboratory, California, USA.",
+      "discovery date":"2000",
+      "isotopes":"293Lv"
     },
     {
       "number": 117,
@@ -1949,12 +2243,16 @@
       "atomic_mass": 294,
       "x": 17,
       "y": 7,
+      "Block": "p",
       "electron_configuration": "[Rn] 5f14 6d10 7s2 7p5",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Scientists from the Joint Institute for Nuclear Research in Dubna, Russia, the Lawrence Livermore National Laboratory in California, USA, and Oak Ridge National Laboratory in Tennessee, USA",
+      "discovery date":"2010",
+      "isotopes":"292Ts 294Ts"
     },
     {
       "number": 118,
@@ -1964,12 +2262,16 @@
       "atomic_mass": 294,
       "x": 18,
       "y": 7,
+      "Block": "p",
       "electron_configuration": "[Rn] 5f14 6d10 7s2 7p6",
       "color": "unknown",
       "phase": "solid",
       "density": "unknown",
       "melting_point": "unknown",
-      "boiling_point": "unknown"
+      "boiling_point": "unknown",
+      "discovered by":"Scientists from the Joint Institute for Nuclear Research in Dubna, Russia and the Lawrence Livermore National Laboratory, California, USA.",
+      "discovery date":"2006",
+      "isotopes":"294Og"
     }
   ]
 }
