@@ -59,6 +59,7 @@ const Element = ({ element, onDoubleClick }) => {
         Type: {element.category}<br />
         Color: {element.color}<br />
         Phase: {element.phase}<br />
+        Block: {element.block}<br />
         Density: {element.density}<br />
         Melting Point: {element.melting_point}<br />
         Boiling Point: {element.boiling_point}<br />
